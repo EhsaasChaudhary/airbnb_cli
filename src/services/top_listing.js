@@ -1,6 +1,5 @@
 import formatTable from "../utils/tabel_formatter.js";
-import parseCSV from "../utils/csv_parser.js";
-import config from "../configs/config.js"; // Import config file
+import { getCachedData } from "../utils/data_cache.js";
 import ora from "ora";
 
 /**
@@ -8,9 +7,9 @@ import ora from "ora";
  * @param {number} count - Number of listings to return.
  */
 async function getTopPriceListings(count) {
+  
   try {
-        // uses parseCSV function from ../utils/csv_parser.js to read data from the CSV file by providing the file path from the config file
-    const priceListing = await parseCSV(config.DATA_FILE); // Read CSV file
+  const priceListing = getCachedData(); // Get cached data
 
     return priceListing
       .map((item) => ({

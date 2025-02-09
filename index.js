@@ -4,6 +4,7 @@ import { Command } from "commander";
 import readline from "readline";
 import fs from "fs";
 import path from "path";
+import { preloadData } from "./src/utils/data_cache.js";  // Preload data
 import listTopPricedAirbnb from "./src/services/top_listing.js";
 
 const program = new Command();
@@ -40,7 +41,7 @@ program
   .version("1.0.0");
 
 /**
- * Displays the main menu with available commands.
+ * Displays the main menu after data is ready.
  */
 function showMenu() {
   console.log(`
@@ -105,16 +106,10 @@ program
   });
 
 /**
- * If no command is provided, show the menu and ask for user input.
+ * Load data first, then show the menu and allow commands.
  */
-if (process.argv.length <= 2) {
+(async function initializeCLI() {
+  await preloadData(); // Load and cache data at startup
   showMenu();
   askForCommand();
-} else {
-  try {
-    program.parse();
-    saveHistory(process.argv.slice(2).join(" ")); // Save only successful commands
-  } catch (error) {
-    console.error("Invalid command:", process.argv.slice(2).join(" "));
-  }
-}
+})();
