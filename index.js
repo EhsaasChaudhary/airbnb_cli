@@ -25,16 +25,6 @@ function loadHistory() {
   }
 }
 
-/**
- * Saves a command to history only if it executed successfully.
- * @param {string} command - Command to save.
- */
-function saveHistory(command) {
-  if (command.trim()) {
-    fs.appendFileSync(HISTORY_FILE, command + "\n", "utf8");
-  }
-}
-
 program
   .name("airbnb-cli")
   .description("CLI tool for managing Airbnb listings")
@@ -50,13 +40,15 @@ Welcome to the Airbnb CLI!
 Available commands:
   ptoplist <number>  - Show the top N highest-priced Airbnb listings
 
+💡 Tip: Use UP/DOWN arrow keys to navigate commands.
+
 Type a command to continue:
 `);
 }
 
 /**
  * Prompts the user for a command input and executes the corresponding command.
- * Supports command history with arrow key navigation.
+ * Uses history for navigation but does NOT save new commands.
  */
 function askForCommand() {
   const history = loadHistory();
@@ -64,7 +56,7 @@ function askForCommand() {
   const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout,
-    history: history,
+    history: history,  // Load previous history
     historySize: 50,
     prompt: "> ",
   });
@@ -76,7 +68,6 @@ function askForCommand() {
     if (args[0]) {
       try {
         program.parse(["node", "cli.js", ...args]);
-        saveHistory(input); // Save command only if execution was successful
       } catch (error) {
         console.error("Invalid command:", input);
       }

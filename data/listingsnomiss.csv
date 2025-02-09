@@ -1,0 +1,654 @@
+id,name,host_verifications,city,zipcode,price,monthly_price,cleaning_fee,guests_included,extra_people,minimum_nights,number_of_reviews
+1668313,Room in Rozzie-Twin Bed-Full Bath,"['email', 'phone', 'reviews', 'kba']",Boston,02131,$57.00,"$1,125.00",$40.00,1,$0.00,1,17
+5434353,Quiet  Beauty in Boston,"['email', 'phone', 'reviews', 'kba']",Boston,02131,$145.00,"$3,000.00",$150.00,2,$35.00,3,7
+6400432,Spacious 3 bedroom cape cod style,"['email', 'phone', 'reviews', 'kba']",Boston,02131,$150.00,"$2,500.00",$100.00,6,$0.00,3,21
+5498472,"4BD/3.5BA, Perfect for families!","['email', 'reviews']",Boston,02131,$175.00,"$2,800.00",$100.00,1,$0.00,14,1
+9218312,Sunny bedroom with private bathroom,"['email', 'phone', 'reviews', 'kba']",Boston,02131,$95.00,"$1,600.00",$15.00,1,$0.00,2,33
+1810172,Room for 2 in Rozzie - Full Bath,"['email', 'phone', 'reviews', 'kba']",Boston,02131,$67.00,"$1,300.00",$40.00,1,$5.00,1,20
+4283698,Private 1 bedroom w/ kitchenette,"['email', 'phone', 'reviews', 'jumio']",Boston,02131,$110.00,"$2,300.00",$25.00,2,$20.00,3,55
+3755609,Lovely & Gracious Victorian room,"['email', 'phone', 'reviews', 'kba']",Boston,02131,$78.00,"$1,800.00",$25.00,1,$0.00,3,21
+1724900,Charming sunlit house in Boston,"['email', 'phone', 'reviews']",Boston,02131,$145.00,"$2,790.00",$56.00,3,$33.00,5,26
+3968797,Sunny bedroom in large quiet house,"['email', 'phone', 'reviews', 'kba']",Boston,02131,$85.00,"$1,000.00",$10.00,1,$0.00,1,29
+1494726,Cozy in Rozzie!,"['email', 'phone', 'reviews', 'kba']",Roslindale,02131,$75.00,"$1,499.00",$50.00,1,$25.00,3,9
+1721016,Quiet Sunlit Attic Studio,"['email', 'phone', 'reviews']",Boston,02131,$89.00,"$2,790.00",$45.00,2,$39.00,3,3
+169938,Gorgeous Boston Loft Style Condo!,"['email', 'phone', 'facebook']",Boston,02130,$140.00,"$4,050.00",$125.00,4,$0.00,3,1
+594693,Private room in peaceful space,"['email', 'phone', 'facebook', 'reviews']",Boston,02130,$70.00,"$1,300.00",$10.00,1,$10.00,2,23
+4792901,Spacious room in secluded townhouse,"['email', 'phone', 'reviews']",Boston,02130,$65.00,$850.00,$10.00,1,$25.00,1,2
+5601743,"Beautiful, Expansive Space in JP","['email', 'phone', 'reviews', 'manual_offline', 'jumio']",Boston,02130,$46.00,"$1,000.00",$50.00,2,$25.00,2,18
+8481291,"Beautiful, airy room in JP","['email', 'phone', 'reviews', 'jumio']",Boston,02130,$69.00,"$1,500.00",$20.00,1,$15.00,2,4
+6990904,Cozy JP bedroom near Orange Line T,"['email', 'phone', 'reviews', 'kba']",Boston,02130,$73.00,"$1,596.00",$50.00,1,$0.00,1,19
+932853,Qn BR/Private Bath/Superhost/JP Ctr,"['email', 'phone', 'reviews', 'kba']",Jamaica Plain,02130,$120.00,"$2,500.00",$80.00,1,$20.00,1,17
+7956634,The Blue Room in JP,"['email', 'phone', 'reviews', 'kba']",Boston,02130,$61.00,"$1,280.00",$10.00,1,$0.00,1,7
+2963419,"Peaceful room, garden oasis","['email', 'phone', 'reviews', 'kba']",Boston,02130,$100.00,"$1,600.00",$100.00,1,$0.00,4,20
+5904732,Lg sunny room w/private entrance,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02119,$70.00,"$1,400.00",$20.00,1,$0.00,1,9
+4975581,Clean Apartment in Boston,"['email', 'phone', 'reviews', 'kba']",Boston,02130,$168.00,"$3,528.00",$120.00,1,$0.00,3,47
+1301500,Stay in Boston's best neighborhood!,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02130,$69.00,"$1,500.00",$30.00,1,$15.00,3,13
+5521378,"Cozy bedroom near train, bus, parks","['email', 'phone', 'reviews', 'kba']",Boston,02130,$87.00,"$1,550.00",$25.00,1,$25.00,2,6
+2621242,Lovely one bedroom Apt,"['email', 'phone', 'reviews', 'jumio']",Boston,02130,$110.00,"$2,300.00",$40.00,2,$10.00,2,6
+3342094,Pondside Paradise with Piano,"['email', 'phone', 'facebook', 'reviews', 'kba']",Jamaica Plain (Boston),02130,$150.00,"$5,040.00",$200.00,2,$35.00,2,14
+1113272,JP Whole awesome apartment,"['email', 'phone', 'facebook', 'reviews', 'jumio']",Boston,02130,$210.00,"$7,000.00",$50.00,4,$50.00,2,41
+6602217,Private Apartment!,"['email', 'phone', 'reviews', 'kba']",Boston,02130,$130.00,"$2,200.00",$45.00,1,$0.00,2,66
+6053700,3+ bedroom house - center of JP,"['email', 'phone', 'reviews']",Jamaica Plain,02130,$450.00,"$6,000.00",$150.00,1,$0.00,1,2
+7823025,Private bedroom in heart of JP,"['email', 'phone', 'reviews', 'jumio']",Boston,02130,$76.00,"$1,630.00",$15.00,1,$15.00,1,57
+9549850,Welcome to cozy groundfloor 2rm apt,"['email', 'phone', 'reviews', 'kba']",Boston,02130,$75.00,"$1,200.00",$25.00,1,$25.00,2,48
+210097,Treetop Haven in the City,"['email', 'phone', 'reviews', 'kba']",Boston,02130,$100.00,"$1,600.00",$50.00,2,$0.00,3,115
+6059968,Funky Alcove for 2/Superhost/JP Ctr,"['email', 'phone', 'reviews', 'kba']",Boston,02130,$100.00,"$2,000.00",$50.00,1,$20.00,1,10
+2077794,Charming Boston Apartment,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02130,$119.00,"$2,992.00",$60.00,0,$0.00,3,14
+732999,Lovely home in Jamaica Plain Boston,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02130,$205.00,"$3,000.00",$50.00,4,$0.00,2,14
+6106955,Treetop 2+BR Condo w/ Guest Hammock,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02130,$114.00,"$2,500.00",$80.00,2,$15.00,4,8
+27611,One Bedroom Studio Garden Apartment,"['email', 'phone', 'reviews', 'kba']",Boston,02130,$185.00,"$3,500.00",$50.00,2,$0.00,3,8
+7910223,"Charming  Apartment, Jamaica Plain","['email', 'phone', 'reviews', 'kba']",Boston,02119,$150.00,"$2,200.00",$40.00,2,$15.00,2,71
+6238463,Pvt tree top room in great location,"['email', 'phone', 'reviews', 'jumio']",Boston,02130,$95.00,"$2,289.00",$30.00,1,$0.00,2,25
+4583526,Lovely private 4 bedroom apt,"['email', 'phone', 'reviews', 'jumio', 'kba']",Boston,02130,$230.00,"$4,400.00",$50.00,4,$40.00,2,75
+7287822,Light and airy separate apartment in funky JP,"['email', 'phone', 'reviews', 'kba']",Boston,02130,$130.00,"$2,400.00",$45.00,3,$30.00,2,59
+8354938,2 bedroom Jamaica Plain Egleston Square w/ parking,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02119,$192.00,"$3,600.00",$64.00,4,$10.00,3,20
+7554801,Cozy guest room. Awesome location!,"['email', 'phone', 'reviews', 'kba']",Boston,02130,$65.00,"$1,500.00",$50.00,1,$0.00,5,6
+9727523,One private room in Jamaica Plain,"['email', 'phone', 'reviews']",Boston,02130,$60.00,"$1,200.00",$15.00,1,$0.00,1,15
+7743569,Cozy guest room. Awesome location!,"['email', 'phone', 'reviews', 'jumio']",Boston,02130,$69.00,"$1,650.00",$20.00,1,$9.00,3,11
+732932,"Sunny Home in Jamaica Plain, Boston","['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02130,$80.00,"$1,375.00",$25.00,1,$0.00,3,18
+667325,"Great location, large room, and private bath.","['email', 'phone', 'facebook', 'reviews', 'jumio']",Boston,02130,$75.00,"$1,500.00",$25.00,2,$25.00,1,58
+1885825,The Roost -  Fox Room,"['email', 'phone', 'reviews', 'kba']",Boston,02130,$80.00,"$2,100.00",$30.00,2,$25.00,3,97
+629814,Diamond House -2- Victorian Jewel,"['email', 'phone', 'reviews', 'kba']",Boston,02130,$225.00,"$5,000.00",$100.00,4,$20.00,3,8
+6465075,Spacious 5BR Condo Near Metro,"['email', 'phone', 'reviews', 'kba']",Boston,02130,$383.00,"$7,644.00",$250.00,6,$20.00,3,20
+7348110,Luxury loft w/ beautiful city view,"['email', 'phone', 'facebook', 'reviews']",Roxbury Crossing,02120,$300.00,"$7,000.00",$50.00,1,$0.00,1,16
+7708436,"Your own bedroom, sitting room and bathroom near T","['email', 'phone', 'reviews', 'kba']",Boston,02130,$85.00,"$1,500.00",$25.00,1,$5.00,1,26
+336960,JP Green House: Simple and Private,"['email', 'phone', 'facebook', 'reviews', 'jumio']",Boston,02131,$70.00,"$1,500.00",$20.00,1,$10.00,2,145
+336946,JP Green House: Garden Apartment,"['email', 'phone', 'facebook', 'reviews', 'jumio']",Boston,02131,$135.00,"$3,000.00",$15.00,2,$10.00,2,68
+6644330,Qn BR/deck/Jacuzzi/Superhost/JP Ctr,"['email', 'phone', 'reviews', 'kba']","Jamaica Plain, MA",02130,$120.00,"$1,600.00",$80.00,1,$20.00,1,5
+5801643,Idyllic Wooded Boston Neighborhood,"['email', 'phone', 'reviews', 'jumio']",Boston,02130,$46.00,"$1,299.00",$8.00,2,$50.00,2,31
+8283433,Large newly renovated apt in perfect  JP location!,"['email', 'phone', 'reviews']",Boston,02130,$300.00,"$5,000.00",$100.00,4,$15.00,2,0
+713627,"Retro Cool Artist's House, Parking","['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02130,$135.00,"$2,800.00",$50.00,1,$0.00,5,1
+7789429,Diamond House -3- Victorian Jewel,"['email', 'phone', 'reviews', 'kba']",Boston,02130,$225.00,"$4,000.00",$100.00,4,$25.00,3,5
+957224,Beautiful 3 BR with Great Location,"['email', 'phone', 'facebook', 'reviews', 'kba']",Jamaica Plain,02130,$275.00,"$6,750.00",$100.00,6,$25.00,3,57
+5495547,Spacious & Charming in JP,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02130,$185.00,"$2,500.00",$150.00,1,$0.00,3,4
+4054079,Studio & Bath On 1st Floor in JP Boston Near Train,"['email', 'phone', 'reviews', 'kba']",Boston,02130,$94.00,"$3,080.00",$20.00,2,$0.00,1,61
+7723492,Private rm 15' bus ride to downtown,"['email', 'phone', 'reviews', 'jumio']",Boston,02130,$75.00,"$2,352.00",$12.00,1,$10.00,1,22
+1956275,Beautiful 3 bd-2 ba  with parking.,"['email', 'phone', 'reviews', 'jumio']",Boston,02130,$168.00,"$4,300.00",$69.00,5,$19.00,2,74
+1071235,Cozy JP Studio-Best Location!,"['email', 'phone', 'facebook', 'reviews', 'kba']",Jamaica Plain,02130,$135.00,"$3,250.00",$40.00,1,$0.00,2,152
+3905508,Home Away from Home,"['email', 'phone', 'facebook', 'reviews']",Boston,02131,$130.00,"$2,400.00",$35.00,2,$0.00,2,28
+14566386,Elegant 2Bdr in Victorian Home,"['email', 'phone', 'google', 'jumio']",Boston,02130,$160.00,"$3,500.00",$50.00,2,$25.00,2,0
+2365632,2 BR Modern Loft of Jamaica Plain,"['email', 'phone', 'reviews', 'kba']",Boston,02130,$220.00,"$3,000.00",$75.00,2,$20.00,2,55
+6377998,"Lg. Victorian Home, 7min to T","['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02119,$480.00,"$6,800.00",$75.00,9,$25.00,1,19
+5166870,2 Bdrm Apt w/ tower in JP Victorian,"['email', 'phone', 'google', 'reviews', 'jumio']",Boston,02130,$180.00,"$2,100.00",$80.00,2,$20.00,2,32
+496022,"Private Floor, Private Bath, City Location","['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02130,$200.00,"$2,000.00",$50.00,2,$25.00,2,16
+1167221,The Roost-Master Suite-The Lion,"['email', 'phone', 'reviews', 'kba']",Boston,02130,$93.00,"$2,950.00",$40.00,2,$25.00,3,97
+4181530,Sunny 2 bedroom close to everything,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02130,$150.00,"$2,000.00",$40.00,2,$0.00,3,18
+9833460,Lovely 2BR+ 2BA JP Cntr/Superhost,"['email', 'phone', 'reviews', 'kba']",Jamaica Plain,02130,$250.00,"$3,300.00",$100.00,1,$20.00,1,3
+8801250,Cute & Comfy in JP!,"['email', 'phone', 'reviews', 'manual_offline', 'jumio']",Boston,02130,$56.00,$800.00,$30.00,1,$25.00,1,4
+5212321,Wonderful home Great Neighborhood mins from Boston,"['email', 'phone', 'reviews', 'kba']",Boston,02130,$180.00,"$4,989.00",$150.00,5,$15.00,21,1
+4065322,Sunny room in Boston (JP),"['email', 'phone', 'reviews', 'kba']",Boston,02130,$84.00,"$1,400.00",$10.00,2,$25.00,1,23
+4457943,Loft & Bath On Top Floor in JP Boston Near Train,"['email', 'phone', 'reviews', 'kba']",Boston,02130,$86.00,"$4,760.00",$20.00,2,$0.00,1,44
+9865550,Great kid friendly furnished condo,"['email', 'phone', 'reviews', 'kba']",Boston,02130,$75.00,"$1,800.00",$40.00,1,$0.00,7,1
+197972,Super Studio-Private and Convenient,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02130,$145.00,"$3,400.00",$40.00,2,$20.00,2,230
+5702292,Elegant Space in JP!,"['email', 'phone', 'reviews', 'manual_offline', 'jumio']",Boston,02130,$81.00,"$1,000.00",$75.00,1,$25.00,1,13
+6914622,Treetop Haven-Eclectic Boston Area,"['email', 'phone', 'reviews', 'kba']",Boston,02130,$225.00,"$2,400.00",$125.00,2,$0.00,2,7
+1885386,The Roost- The Elephant Room,"['email', 'phone', 'reviews', 'kba']",Boston,02130,$85.00,"$2,100.00",$30.00,2,$25.00,3,119
+115936,"Sunny, Spacious and Affordable ","['email', 'phone', 'reviews']",Boston,02130,$525.00,"$5,300.00",$130.00,1,$0.00,3,7
+5293067,"Adorable, Cozy Space in JP!","['email', 'phone', 'reviews', 'manual_offline', 'jumio']",Boston,02130,$49.00,$800.00,$50.00,1,$20.00,1,23
+50032,Amazing Design & Detail Throughout!,"['email', 'phone', 'reviews']",Boston,02130,$725.00,"$6,500.00",$130.00,1,$0.00,3,15
+1187188,Entire loft in Boston,"['email', 'phone', 'reviews', 'kba']",Boston,02130,$220.00,"$4,200.00",$60.00,4,$60.00,3,17
+903598,[1684-NE]2BR At The Longwood,"['email', 'phone', 'reviews', 'jumio']",Boston,02120,$299.00,"$5,200.00",$200.00,1,$0.00,30,0
+9903,[1480-1] 1BR-City View at Longwood ,"['email', 'phone', 'reviews', 'jumio']",Boston,02120,$249.00,"$5,450.00",$150.00,1,$0.00,3,0
+1426711,2 Private Rooms Near T,"['email', 'phone', 'reviews', 'kba']",Boston,02120,$160.00,"$3,500.00",$25.00,4,$20.00,3,13
+4823089,Cozy room in apt close to T-stop!,"['email', 'phone', 'reviews', 'jumio']",Boston,02130,$79.00,"$2,500.00",$30.00,1,$59.00,3,28
+195515,[1684-ST] Lux 1BR-Longwood Med Area,"['email', 'phone', 'reviews', 'jumio']",Boston,02120,$199.00,"$5,150.00",$150.00,1,$0.00,30,1
+130552,[1684-2]2BRs-Near Longwood Med Area,"['email', 'phone', 'reviews', 'jumio']",Boston,02120,$269.00,"$7,589.00",$150.00,1,$0.00,30,2
+5832127,Spacious bedroom in full apartment,"['email', 'phone', 'facebook', 'reviews', 'jumio']",Boston,02120,$69.00,"$1,350.00",$30.00,1,$10.00,1,8
+11861063,Studio apt. w/ kitchenette and bath,"['email', 'phone', 'reviews', 'kba']",Boston,02120,$70.00,"$1,250.00",$10.00,2,$10.00,1,7
+5453775,Cozy room in front of train/bus stp,"['email', 'phone', 'reviews', 'manual_offline', 'jumio']",Boston,02130,$99.00,"$1,800.00",$30.00,1,$39.00,4,14
+12497846,Longwood Medical Area,"['email', 'phone', 'reviews', 'jumio']",Boston,02120,$90.00,"$1,450.00",$5.00,1,$15.00,2,8
+1471308,Cozy Private Room Near Transit,"['email', 'phone', 'reviews', 'kba']",Boston,02120,$70.00,"$2,000.00",$25.00,2,$0.00,2,72
+6744795,Furnished Longwood 1BR Apartment,"['email', 'phone', 'reviews', 'jumio']",Boston,02120,$169.00,"$6,300.00",$100.00,1,$0.00,3,0
+3659917,Convenient Place & Comfortable Room,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02130,$75.00,"$1,920.00",$35.00,1,$40.00,2,42
+1092093,Duplex Penthouse in Longwood Area,"['phone', 'reviews']",Boston,02120,$115.00,"$3,100.00",$200.00,0,$0.00,5,9
+1471373,Private Rm near T Separate Bunkbeds,"['email', 'phone', 'reviews', 'kba']",Boston,02120,$75.00,"$2,000.00",$25.00,2,$20.00,2,73
+9626892,Master Bedroom w/ Private Bathroom,"['email', 'phone', 'reviews', 'jumio']",Boston,02120,$72.00,"$1,200.00",$30.00,1,$20.00,1,4
+7562235,Cozy room in front of metro station,"['email', 'phone', 'reviews', 'jumio']",Boston,02130,$90.00,"$1,495.00",$10.00,1,$25.00,2,3
+8184662,Furnished Longwood 1BR Apartment.,"['email', 'phone', 'reviews', 'jumio']",Boston,02120,$169.00,"$6,169.00",$100.00,1,$0.00,5,1
+6118583,The Treehouse,"['email', 'phone', 'reviews']",Boston,02120,$140.00,"$3,500.00",$30.00,2,$120.00,4,10
+6990023,Master Bed/Bath-Modern-Mission Hill,"['email', 'phone', 'reviews', 'kba']",Boston,02130,$88.00,"$2,500.00",$30.00,1,$20.00,1,20
+7280665,Shared apt in heart of Boston.,"['email', 'phone', 'reviews', 'jumio']",Boston,02120,$40.00,$650.00,$15.00,1,$0.00,1,2
+4687499,"Charming 2-Story Flat, Great Value!","['email', 'phone', 'reviews', 'jumio']",Boston,02130,$103.00,"$2,200.00",$60.00,2,$30.00,1,24
+4625517,GreenT&bus stops in front of door ,"['email', 'phone', 'reviews', 'weibo', 'jumio']",波士顿,02115,$100.00,"$1,000.00",$20.00,1,$25.00,3,0
+7868931,Furnished Longwood 1-BR Apartment,"['email', 'phone', 'reviews', 'jumio']",Boston,02120,$169.00,"$6,300.00",$100.00,1,$0.00,3,2
+8015793,Brilliant Former Brewery Apartment,"['email', 'phone', 'facebook', 'reviews', 'kba']",Roxbury Crossing,02120,$200.00,"$1,000.00",$20.00,2,$20.00,4,1
+4493030,Lux Longwood 2BR w/balcony & WiFi,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02120,$272.00,"$6,270.00",$100.00,1,$0.00,3,1
+7113260,Awesome Former Brewery Loft,"['email', 'phone', 'facebook', 'reviews', 'kba']",Roxbury Crossing,02120,$90.00,"$3,000.00",$50.00,1,$0.00,1,23
+4523594,Lux Longwood 1BR w/ balcony & WiFi,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02120,$215.00,"$5,370.00",$100.00,1,$0.00,3,0
+543188,[1480-2] 2 BR-City view at Longwood,"['email', 'phone', 'reviews', 'jumio']",Boston,02120,$349.00,"$5,900.00",$150.00,1,$0.00,3,0
+4409653,"Lux Longwood 1BR w/pool, gym & WiFi","['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02120,$246.00,"$5,670.00",$100.00,1,$0.00,3,1
+5967936,Apt close to downtown and backbay,"['email', 'phone', 'kba']",Boston,02115,$175.00,"$1,600.00",$60.00,1,$20.00,2,0
+6684904,"Lux Longwood 1BR w/pool, gym & WiFi","['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02120,$246.00,"$5,670.00",$100.00,1,$0.00,3,2
+7637094,"2BD, Steps to Hospitals, T&Colleges","['email', 'phone', 'reviews', 'kba']",Boston,02215,$100.00,"$3,200.00",$25.00,1,$0.00,4,0
+4518756,1 Bedroom Apt. A - Boston Back Bay,"['email', 'phone', 'reviews']",Boston,02116,$165.00,"$2,800.00",$65.00,1,$0.00,1,19
+4518710,1 Bedroom Apt. *B - Boston Back Bay,"['email', 'phone', 'reviews']",Boston,02116,$165.00,"$2,500.00",$75.00,1,$0.00,1,38
+1731639,Lovely Back BayTownhouse in Boston 38M,"['email', 'phone', 'reviews']",Boston,02116,$500.00,"$10,000.00",$250.00,1,$0.00,2,9
+4518380,2 Bedroom Suite - Boston's Back Bay,"['email', 'phone', 'reviews']",Boston,02116,$188.00,"$3,850.00",$95.00,1,$0.00,1,13
+3359170,[1857]2BR At Radian Apartments,"['email', 'phone', 'reviews', 'jumio']",Boston,02111,$399.00,"$8,500.00",$150.00,1,$0.00,7,1
+3401809,[1857-1]1BR At Radian Apartments,"['email', 'phone', 'reviews', 'jumio']",Boston,02111,$289.00,"$6,900.00",$150.00,1,$0.00,7,0
+2187766,Lux Downtown Boston 2BR Apt w/pool,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02111,$389.00,"$6,870.00",$100.00,1,$0.00,3,22
+3342206,"Lux 2BR w/WiFi, Central Boston","['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02111,$285.00,"$7,470.00",$100.00,1,$0.00,15,2
+7434871,Theater District 2 LEVEL LOFT!,"['email', 'phone', 'reviews', 'jumio']",Boston,02111,$383.00,"$11,450.00",$70.00,2,$25.00,1,57
+994317,[1168-1C]Elegant 1BR - Downtown Boston,"['email', 'phone', 'reviews', 'jumio']",Boston,02111,$349.00,"$5,770.00",$150.00,1,$0.00,3,4
+4255538,Theater District 1BR 1Bath Cityview,"['email', 'phone', 'reviews', 'jumio']",Boston,02111,$287.00,"$4,999.00",$100.00,1,$0.00,2,10
+4445906,Lux Downtown Boston 2BR Apt w/pool,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02111,$389.00,"$6,870.00",$100.00,1,$0.00,3,3
+721979,[1168-2C]Elegant 2BRs - Downtown Boston,"['email', 'phone', 'reviews', 'jumio']",Boston,02111,$349.00,"$8,650.00",$150.00,1,$0.00,3,7
+9834727,"Boston's North End-""Little Italy""","['email', 'phone', 'reviews']",Boston,02113,$150.00,"$2,750.00",$50.00,2,$25.00,2,16
+4553903,Stunning Luxury North End Loft!,"['email', 'phone', 'reviews', 'kba']",Boston,02114,$125.00,"$5,500.00",$80.00,2,$10.00,1,140
+916123,Old North Parlor Flat on the Court,"['email', 'phone', 'reviews', 'jumio']",Boston,02113,$125.00,"$3,100.00",$45.00,1,$0.00,1,281
+5782221,"""La Gemma"" - a gem in the North End","['email', 'phone', 'reviews', 'kba']",Boston,02113,$285.00,"$5,200.00",$80.00,1,$0.00,2,57
+2842124,Charming 1-bedroom in the North End,"['email', 'phone', 'reviews']",Boston,02113,$150.00,"$3,000.00",$65.00,1,$0.00,5,33
+766700,Under the Light of Old North Church,"['email', 'phone', 'reviews', 'jumio']",Boston,02113,$125.00,"$3,100.00",$45.00,1,$0.00,1,244
+4518100,2 Bedroom in Boston's North End,"['email', 'phone', 'reviews']",Boston,02109,$175.00,"$2,750.00",$95.00,1,$0.00,1,14
+2043529,16 Battery Cindy’s Apartment (#G),"['email', 'phone', 'reviews']",Boston,02109,$195.00,"$3,200.00",$95.00,1,$0.00,1,19
+815639,MedaevalModernHaven in the NorthEnd,"['email', 'phone', 'reviews', 'jumio']",Boston,02113,$125.00,"$3,100.00",$45.00,1,$0.00,1,281
+6089865,Modern Flat on freedomTrail Apt.,"['email', 'phone', 'reviews', 'jumio']",Boston,02113,$125.00,"$3,200.00",$45.00,1,$0.00,1,120
+8036024,Upscale Faneuil Hall / N. End Oasis,"['email', 'phone', 'reviews', 'jumio']",Boston,02114,$150.00,"$5,500.00",$80.00,2,$15.00,1,84
+3129309,Charming freedom trail apartment,"['email', 'phone', 'reviews', 'jumio']",Boston,02113,$125.00,"$3,100.00",$45.00,1,$0.00,1,171
+1220971,Boston Huge 1BR Best location (h2b),"['email', 'phone', 'reviews']",Boston,02109,$109.00,"$3,270.00",$85.00,3,$25.00,1,43
+3664031,2 bedroom condo in Downtown Boston,"['email', 'phone', 'facebook', 'reviews', 'jumio']",Boston,02109,$180.00,"$4,250.00",$80.00,4,$25.00,4,42
+1615033,Best Cozy Freedom trail apartment!!,"['email', 'phone', 'reviews', 'jumio']",Boston,02113,$135.00,"$2,800.00",$45.00,1,$0.00,1,236
+220676,Private room off the Freedom Trail.,"['email', 'phone', 'facebook', 'reviews', 'jumio']",Boston,02113,$69.00,"$3,000.00",$60.00,2,$50.00,3,160
+891661,GORGEOUS WATER FRT NORTH END STUDIO,"['email', 'phone', 'reviews', 'kba']",Boston,02109,$125.00,"$3,800.00",$50.00,2,$10.00,2,190
+8556025,Historic North End Modern 2 Bed,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02113,$220.00,"$3,499.00",$75.00,2,$25.00,2,72
+1758953,North End - Little Italy,"['email', 'phone', 'facebook', 'reviews', 'jumio']",Boston,02113,$200.00,"$4,000.00",$50.00,0,$0.00,1,80
+2183058,Historic Boston North End Condo,"['email', 'phone', 'reviews', 'kba']",Boston,02113,$175.00,"$4,200.00",$95.00,2,$0.00,4,73
+1426754,Boston Best furnished Studio (H2a),"['email', 'phone', 'reviews']",Boston,02108,$99.00,"$3,270.00",$75.00,1,$0.00,1,73
+3032367,Little Italy spacious apartment,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02113,$135.00,"$3,600.00",$25.00,2,$15.00,2,41
+7293671,Spacious private bedroom in house,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02119,$90.00,"$1,200.00",$25.00,1,$30.00,4,2
+5506,$99 Special! Hotel Alternative!,"['email', 'phone', 'reviews', 'kba']",Boston,02119,$145.00,"$3,000.00",$40.00,2,$0.00,3,36
+1884045,COMFY TWIN DOUBLE ROOM IN BOSTON,"['email', 'phone', 'reviews', 'jumio']",Boston,02119,$65.00,"$1,800.00",$10.00,1,$30.00,1,173
+10190260,High End South End Loft/Silver Line,"['email', 'phone', 'reviews', 'kba']",Boston,02118,$75.00,"$1,700.00",$100.00,1,$20.00,30,1
+349347,Modern Studio Apartment - South End,"['email', 'phone', 'reviews', 'kba']",Boston,02118,$150.00,"$2,500.00",$100.00,2,$0.00,2,55
+8402408,Room on Top - South End brownstone,"['email', 'phone', 'reviews', 'kba']",Boston,02118,$95.00,"$2,000.00",$30.00,2,$0.00,1,57
+6780313,lovely sunny room in Boston,"['email', 'phone', 'reviews', 'kba']",ROXBURY CROSSING,02120,$65.00,"$1,400.00",$50.00,1,$25.00,1,18
+6780300,Large Sunny room in Boston,"['email', 'phone', 'reviews', 'kba']",ROXBURY CROSSING,02120,$65.00,"$1,550.00",$50.00,1,$25.00,3,9
+10249798,2nd floor room in Victorian House,"['email', 'phone', 'reviews', 'kba']",Boston,02125,$78.00,"$1,008.00",$30.00,1,$25.00,2,1
+7825327,Brown Stone Apt #4near Northeastern,"['email', 'phone', 'reviews', 'jumio']",Boston,02120,$350.00,"$8,995.00",$200.00,5,$20.00,5,9
+1850260,Comfy Room in the heart of Boston ,"['email', 'phone', 'reviews', 'jumio']",Boston,02119,$65.00,"$1,800.00",$10.00,1,$30.00,1,156
+6645010,Cozy front room off the beaten path,"['email', 'phone', 'facebook', 'reviews', 'jumio']",Boston,02121,$55.00,"$1,200.00",$20.00,2,$20.00,3,24
+2892825,Sunny Hill Garden Suite 1,"['email', 'phone', 'reviews', 'jumio']",Boston,02121,$450.00,"$8,795.00",$200.00,6,$100.00,4,7
+176006,Spacious 2 family w/Room to Spare,"['email', 'phone', 'reviews', 'kba']",Boston,02125,$60.00,"$1,540.00",$20.00,1,$10.00,3,88
+7281884,"Charming urban studio, free parking","['email', 'phone', 'reviews']",Boston,02121,$110.00,"$1,600.00",$30.00,1,$8.00,1,82
+3727560,Charming 1BD in house ,"['phone', 'reviews', 'kba']",Boston,02119,$120.00,"$2,750.00",$10.00,2,$50.00,2,91
+10787333,Garden Apt - Highland Park/Fort Hill (Orange Line),"['email', 'phone', 'reviews', 'kba']",Boston,02119,$114.00,"$1,701.00",$35.00,1,$0.00,2,7
+6576530,Sunny Hill Garden Suite #2,"['email', 'phone', 'reviews', 'jumio']",Boston,02121,$450.00,"$8,795.00",$200.00,5,$100.00,3,4
+3888360,3BR/1.5BA + Prvt Patio - Boston,"['email', 'phone', 'facebook', 'reviews', 'jumio']",Boston,02119,$269.00,"$4,738.00",$199.00,8,$0.00,1,24
+8420883,Outstanding Boston's  Brownstone,"['email', 'phone', 'reviews']",Boston,02119,$75.00,$900.00,$75.00,1,$40.00,3,6
+8735827,Brownstone Serene Guest BR/Bath,"['email', 'phone', 'reviews', 'kba']",Boston,02119,$90.00,"$1,850.00",$20.00,1,$40.00,3,31
+658029,Splendid Tremont St. 1 bedroom,"['email', 'phone', 'reviews', 'kba']",Boston,02118,$163.00,"$3,500.00",$100.00,1,$0.00,2,65
+6709682,Private room in Boston,"['email', 'phone', 'reviews', 'kba']",Roxbury Crossing,02120,$65.00,"$1,450.00",$50.00,1,$15.00,3,25
+3656168,Parking Close 2 Downtown Renovated,"['email', 'phone', 'reviews', 'jumio']",Boston,02119,$40.00,$825.00,$50.00,1,$0.00,30,4
+8734707,Brownstone Cozy Penthouse Suite,"['email', 'phone', 'reviews', 'kba']",Boston,02119,$90.00,"$1,850.00",$20.00,1,$40.00,3,38
+5146580,"Boston comfy room 1, phase 2","['email', 'phone', 'reviews', 'jumio']",Boston,02119,$65.00,"$1,800.00",$5.00,1,$30.00,1,58
+7161203,Cozy Rm EZ St Parking EZ 2 downtown,"['email', 'phone', 'reviews', 'jumio']",Boston,02119,$35.00,$725.00,$50.00,1,$0.00,30,3
+5146447,"Boston Comfy Room 3, Phase 2","['email', 'phone', 'reviews', 'jumio']",Boston,02119,$63.00,"$1,800.00",$5.00,1,$30.00,1,45
+5146451,"Boston Comfy Room 2, Phase 2","['email', 'phone', 'reviews', 'jumio']",Boston,02119,$63.00,"$1,800.00",$5.00,1,$30.00,1,32
+9765,[1294] Grand Studio - South End,"['email', 'phone', 'reviews', 'jumio']",Boston,02118,$229.00,"$5,136.00",$75.00,1,$0.00,2,9
+3969526,Sensational South End 2 bedroom,"['email', 'phone', 'reviews', 'kba']",Boston,02118,$255.00,"$5,700.00",$80.00,2,$30.00,2,111
+8193344,1 Bedroom in large Condominium (II),"['email', 'phone', 'reviews', 'kba']",Boston,02118,$125.00,"$2,183.00",$50.00,1,$70.00,2,26
+6355733,Private Rm+Bathroom in Apt.,"['email', 'phone', 'reviews', 'kba']",Boston,02118,$80.00,"$1,800.00",$50.00,1,$0.00,1,4
+8575476,TRUE South End PERFECT!!!!,"['email', 'phone', 'reviews', 'kba']",Boston,02116,$215.00,"$4,000.00",$50.00,1,$0.00,1,22
+2326445,Charming and Bright South End Apt,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02118,$195.00,"$3,900.00",$60.00,2,$0.00,3,56
+851927,Gorgeos 1BD Steps to Bay Station,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02116,$150.00,"$3,500.00",$150.00,1,$0.00,14,7
+8846202,South End Brownstone 1bd/1ba,"['email', 'phone', 'reviews']",Boston,02116,$185.00,"$3,295.00",$75.00,1,$25.00,3,11
+2292495,furnished 1 bed apartment copley #5,"['email', 'phone', 'reviews', 'kba']",Boston,02118,$175.00,"$2,700.00",$125.00,1,$0.00,1,27
+1275498,"Parlor Retreat, South End studio","['phone', 'facebook', 'reviews', 'jumio']",Boston,02118,$160.00,"$3,100.00",$200.00,2,$40.00,32,15
+4879702,Modern Duplex in South End,"['email', 'phone', 'reviews', 'jumio']",Boston,02118,$99.00,"$4,235.00",$75.00,2,$25.00,2,20
+7714627,Beautiful South End Penthouse!,"['email', 'phone', 'reviews', 'kba']",Boston,02118,$235.00,"$5,000.00",$70.00,2,$15.00,2,66
+3601030,Luxury South End Apartment ,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02118,$250.00,"$5,960.00",$95.00,1,$0.00,3,77
+3289921,South End Studio with Sleeping Loft,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02118,$170.00,"$2,500.00",$40.00,2,$10.00,4,18
+798957,2Bed2BathDplx 43Bus to BestBosSites,"['email', 'phone', 'reviews', 'jumio']",Boston,02118,$306.00,"$4,872.00",$90.00,4,$100.00,1,192
+5058148,Convenient & Vibrant South End!  ,"['email', 'phone', 'reviews', 'kba']",Boston,02118,$160.00,"$4,400.00",$45.00,1,$0.00,2,6
+585148,Trendy Loft in the South End,"['email', 'phone', 'facebook', 'reviews', 'manual_offline', 'jumio']",Boston,02118,$225.00,"$3,500.00",$80.00,3,$100.00,2,31
+322593,"1Studio WalkOutToPatio..CloseToBus,T,HistoricSites","['email', 'phone', 'reviews', 'jumio']",Boston,02118,$183.00,"$5,208.00",$70.00,2,$77.00,2,192
+10227043,2 BR 2 Bath Luxury Apmt in SouthEnd,"['email', 'phone', 'reviews', 'kba']",Boston,02116,$350.00,"$5,000.00",$50.00,1,$0.00,2,33
+8006992,"Elegant, Historic, sleek renovation","['email', 'phone', 'reviews', 'kba']",Boston,02118,$210.00,"$5,000.00",$50.00,2,$25.00,4,6
+6348631,Chic minimal 2BD in south end SOWA,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02118,$149.00,"$3,350.00",$100.00,2,$0.00,1,8
+5734770,Sunny Roofdeck Apartment,"['email', 'phone', 'reviews', 'jumio']",Boston,02116,$150.00,"$2,900.00",$25.00,1,$0.00,2,87
+8316068,1 Bedroom in Condominium (III),"['email', 'phone', 'reviews', 'kba']",Boston,02118,$110.00,"$2,345.00",$50.00,1,$65.00,2,15
+6972426,Luxurious penthouse living!!,"['email', 'phone', 'reviews', 'kba']",Boston,02118,$575.00,"$15,000.00",$125.00,1,$0.00,2,19
+8200839,"Boston, South End - 1 Bedroom (I)","['email', 'phone', 'reviews', 'kba']",Boston,02118,$110.00,"$2,183.00",$50.00,1,$65.00,2,19
+8595650,Historical Southend apartment,"['email', 'phone', 'reviews', 'jumio']",Boston,02118,$200.00,"$3,000.00",$100.00,2,$25.00,3,38
+5088560,Stunning SouthEnd/BackBay Penthouse,"['email', 'phone', 'reviews', 'jumio']",Boston,02118,$600.00,"$11,000.00",$80.00,1,$0.00,2,38
+8201104,"Boston, South End - 3 Bedrooms","['email', 'phone', 'reviews', 'kba']",Boston,02118,$299.00,"$5,999.00",$175.00,1,$70.00,4,1
+5593888,Cozy South End Guest Room,"['email', 'phone', 'reviews', 'jumio']",Boston,02118,$89.00,"$1,800.00",$25.00,2,$100.00,2,60
+989163,"Victorian Dream Studio, South End","['phone', 'facebook', 'reviews', 'jumio']",Boston,02118,$170.00,"$3,200.00",$200.00,2,$40.00,32,19
+7755144,Nice South End Condo.,"['email', 'phone', 'reviews']",Boston,02118,$225.00,"$5,200.00",$60.00,2,$35.00,2,24
+1038465,HANCOCK TOWER/COPLEY ROOM,"['email', 'phone', 'reviews', 'kba']",Boston,02116,$135.00,"$2,800.00",$10.00,1,$12.00,1,163
+8753913,Fashionable South End Condo,"['email', 'phone', 'reviews']",Boston,02118,$240.00,"$4,500.00",$100.00,4,$25.00,2,26
+2495047,Serene in the South End,"['phone', 'facebook', 'reviews', 'jumio']",Boston,02118,$160.00,"$3,300.00",$200.00,2,$40.00,27,8
+9446242,Heart of Back Bay/South End,"['email', 'phone', 'facebook', 'reviews', 'jumio']",Boston,02116,$150.00,"$1,850.00",$30.00,1,$0.00,14,0
+1200502,Charming Garden Studio In South End,"['email', 'phone', 'reviews', 'kba']",Boston,02118,$145.00,"$3,100.00",$65.00,2,$10.00,2,34
+7508063,"Modern, Airy 2 BR Loft in South End","['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02118,$238.00,"$4,998.00",$15.00,4,$10.00,1,9
+2215762,"Boutique South End, with sunshine","['phone', 'facebook', 'reviews', 'jumio']",Boston,02118,$185.00,"$3,400.00",$200.00,2,$40.00,32,16
+526970,BACK BAY/COPLEY FIRST FLOOR ROOM,"['email', 'phone', 'reviews', 'kba']",Boston,02116,$130.00,"$2,800.00",$15.00,1,$12.00,1,103
+7965521,South End 1 Bedroom PERFECTION!,"['email', 'phone', 'reviews', 'kba']",Boston,02116,$215.00,"$4,500.00",$50.00,1,$0.00,1,16
+7620413,Spectacular Brownstone in South End,"['email', 'phone', 'reviews', 'jumio']",Boston,02118,$200.00,"$3,800.00",$90.00,2,$50.00,14,2
+1214214,Breathtaking downtown arty condo,"['email', 'phone', 'reviews', 'kba']",Boston,02118,$450.00,"$11,000.00",$120.00,3,$0.00,7,1
+4549374,South End Luxury Penthouse,"['email', 'phone', 'reviews', 'kba']",Boston,02118,$199.00,"$5,500.00",$60.00,2,$25.00,2,59
+5769127,"Columbus Avenue By Maverick, Three","['email', 'phone', 'reviews', 'jumio']",Boston,02116,$150.00,"$4,000.00",$225.00,1,$0.00,7,2
+543078,[1716-2] Brand New 2BR -Back Bay,"['email', 'phone', 'reviews', 'jumio']",Boston,02116,$379.00,"$6,200.00",$150.00,1,$0.00,3,6
+627048,[1250-2/1] 2BR Lux Back Bay Rental.,"['email', 'phone', 'reviews', 'jumio']",Boston,02116,$299.00,"$7,200.00",$150.00,1,$0.00,4,10
+5280183,Classic & Stylish w/ Balcony,"['email', 'phone', 'reviews', 'jumio']",Boston,02116,$110.00,"$2,600.00",$150.00,1,$0.00,60,3
+1174776,Cozy + Central Back Bay Apartment,"['email', 'phone', 'reviews']",Boston,02116,$185.00,"$3,600.00",$25.00,1,$40.00,5,6
+10882267,Mansion Flat in Heart of Back Bay,"['email', 'phone', 'reviews', 'kba']",Boston,02116,"$1,250.00","$40,000.00",$250.00,1,$0.00,14,1
+6214710,Small studio in GREAT location,"['email', 'phone', 'reviews']",Boston,02116,$135.00,"$3,000.00",$50.00,1,$0.00,3,25
+7698631,"Charles River gem-Back Bay, Boston","['email', 'phone', 'facebook', 'reviews']",Boston,02116,$300.00,"$5,600.00",$75.00,1,$0.00,1,4
+4143561,Lux 2BR in Post-War building ,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02116,$363.00,"$8,070.00",$100.00,1,$0.00,3,15
+4603588,Ahh the Views! 1 Bed with Balcony,"['email', 'phone', 'reviews', 'jumio']",Boston,02116,$175.00,"$3,090.00",$150.00,1,$0.00,21,5
+2915643,TheDartmouthExecutiveSuite.com,"['email', 'phone']",Boston,02116,$289.00,"$5,895.00",$150.00,2,$40.00,5,1
+7961477,Beautiful Back Bay One Bed Apt.,"['email', 'phone', 'reviews', 'kba']",Boston,02116,$245.00,"$3,000.00",$125.00,1,$0.00,7,11
+1964878,Lux 2BR in Post-War building  ,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02116,$363.00,"$8,070.00",$100.00,1,$0.00,3,12
+10811,Back Bay Studio on Marlborough St-,"['phone', 'reviews']",Boston,02115,$165.00,"$2,250.00",$100.00,1,$0.00,1,3
+1948096,2 Br Duplex PH - South End/Back Bay,"['email', 'phone', 'reviews', 'kba']",Boston,02118,$385.00,"$8,850.00",$150.00,1,$0.00,5,3
+4044840,Lux 1BR in Post-War Back Bay bldg,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02116,$298.00,"$6,270.00",$100.00,1,$0.00,3,5
+1341072,"Cozy, One bedroom Condo, Back Bay","['email', 'phone', 'reviews', 'kba']",Boston,02115,$175.00,"$4,000.00",$75.00,1,$0.00,3,41
+56937,[1250]Beautiful 2BRs in Back Bay,"['email', 'phone', 'reviews', 'jumio']",Boston,02116,$299.00,"$7,200.00",$150.00,1,$0.00,3,10
+9144588,Back Bay Gem 2,"['email', 'phone', 'reviews', 'kba']",Boston,02116,$165.00,"$3,800.00",$60.00,1,$0.00,2,43
+1717816,Modern Comfort with Amazing Views,"['email', 'phone', 'reviews', 'jumio']",Boston,02116,$99.00,"$3,090.00",$150.00,1,$0.00,90,2
+4490826,Lux 2BR in Post-War building  ,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02116,$363.00,"$11,970.00",$100.00,1,$0.00,3,3
+8351880,Spacious and clean room in Back bay,"['email', 'phone', 'reviews', 'jumio']",Boston,02116,$151.00,"$5,831.00",$25.00,1,$25.00,1,71
+1090413,Back Bay-Ctr BOSTON-Lge Rm Pvt Bath,"['email', 'phone', 'reviews', 'kba']",Boston,02115,$120.00,"$4,000.00",$60.00,1,$100.00,5,42
+4516065,Lux 1BR in Post-War Back Bay bldg,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02116,$298.00,"$6,270.00",$100.00,1,$0.00,3,3
+4972820,Beautiful 1 Bedroom on Beacon,"['email', 'phone', 'reviews', 'jumio']",Boston,02116,$130.00,"$2,890.00",$150.00,1,$0.00,60,1
+12390027,Live Boston Well From Your Doorstep,"['email', 'phone', 'reviews', 'jumio']",Boston,02116,$175.00,"$4,100.00",$75.00,0,$0.00,2,17
+4446413,Lux 2BR in Post-War building ,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02116,$363.00,"$8,070.00",$100.00,1,$0.00,3,7
+3528826,Back Bay 1BR Apt / Heart of Boston!,"['email', 'phone', 'reviews', 'kba']",Boston,02116,$239.00,"$7,000.00",$75.00,4,$50.00,2,103
+1775935,[1250-2C]Elegant 2BRs in Back Bay,"['email', 'phone', 'reviews', 'jumio']",Boston,02116,$299.00,"$7,200.00",$150.00,1,$0.00,4,3
+8116523,Brownstone in heart of Back Bay,"['email', 'phone', 'reviews', 'jumio']",Boston,02116,$150.00,"$5,500.00",$80.00,2,$15.00,1,77
+2429961,"Back Bay PH, private roof deck","['email', 'phone', 'reviews', 'jumio']",Boston,02116,$170.00,"$3,300.00",$125.00,2,$10.00,7,17
+21337,[1250-2NE] 2BR Lux Back Bay Rental,"['email', 'phone', 'reviews', 'jumio']",Boston,02116,$329.00,"$7,200.00",$200.00,4,$0.00,4,11
+5870309,Lux 2BR Apt By Prudential Center,"['email', 'phone', 'reviews', 'jumio']",Boston,02116,$319.00,"$10,470.00",$100.00,1,$0.00,3,5
+5903001,Boston Back Bay/Copley Square,"['email', 'phone', 'reviews']",Boston,02116,$325.00,"$6,000.00",$100.00,2,$25.00,3,12
+6017574,Back Bay Gem on Commonwealth Avenue,"['email', 'phone', 'reviews']",Boston,02115,$425.00,"$6,000.00",$90.00,1,$0.00,7,15
+9180947,Back Bay Gem 1,"['email', 'phone', 'reviews', 'kba']",Boston,02116,$145.00,"$3,900.00",$60.00,1,$0.00,2,46
+4132983,Lux 2BR in Post-War building  ,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02116,$363.00,"$8,070.00",$100.00,1,$0.00,3,17
+3591388,Spacious  1 bedroom BackBay,"['email', 'phone', 'reviews']",Boston,02115,$275.00,"$6,500.00",$60.00,1,$50.00,3,30
+789843,Private Roof Deck One Bed Beacon St,"['email', 'phone', 'reviews', 'kba']",Boston,02115,$250.00,"$5,000.00",$100.00,1,$0.00,7,2
+2247190,Lux 2BR in Post-War building  ,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02116,$363.00,"$8,070.00",$100.00,1,$0.00,3,14
+4409819,Lux 1BR in Back Bay Landmark w/gym ,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02116,$267.00,"$6,450.00",$100.00,1,$0.00,14,2
+2246959,Lux 2BR in Post-War building  ,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02116,$363.00,"$8,070.00",$100.00,1,$0.00,3,22
+1868513,Lux 1BR in Post-War Back Bay bldg,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02116,$298.00,"$6,270.00",$100.00,1,$0.00,3,6
+4358181,Gorgeous Brand New Spacious Studio,"['email', 'phone', 'reviews', 'jumio']",Boston,02116,$130.00,"$2,600.00",$150.00,1,$0.00,60,4
+4080849,1 Bedroom in heart of Back Bay,"['email', 'phone', 'reviews', 'jumio']",Boston,02115,$250.00,"$3,000.00",$10.00,2,$0.00,1,3
+1589392,Totally Amazing XL Studio w Skyline,"['email', 'phone', 'reviews', 'jumio']",Boston,02116,$130.00,"$2,800.00",$150.00,1,$0.00,2,1
+1066742,Zephyr Yacht - Heated and Insulated,"['email', 'phone', 'reviews']",Boston,02128,$200.00,"$4,000.00",$139.00,2,$25.00,2,32
+9273,"Stay at ""HARBORVIEW"" Walk to subway","['email', 'phone', 'reviews']",Boston,02128,$225.00,"$3,600.00",$80.00,4,$20.00,3,13
+8326439,"Close to airport, downtown Boston","['email', 'phone', 'reviews']",Boston,02128,$48.00,$850.00,$30.00,1,$10.00,5,4
+1458081,"Beautiful 4BD/2BA Gem! Near airport, city, subway!","['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02128,$210.00,"$6,000.00",$125.00,5,$25.00,3,27
+4868653,Private room in single family house,"['email', 'phone', 'reviews', 'jumio']",Boston,02128,$95.00,"$1,800.00",$30.00,1,$50.00,3,11
+8859689,Lux Boston 2 BR Apt near train,"['email', 'phone', 'reviews', 'jumio']",Boston,02128,$250.00,"$3,500.00",$95.00,4,$35.00,1,15
+6614984,Cozy/Stylish btwn Dwntwn & Airport,"['email', 'phone', 'facebook', 'google', 'reviews', 'jumio']",Boston,02128,$129.00,"$3,750.00",$60.00,2,$0.00,1,28
+1059604,Adventure Houseboat. Free Parking!,"['email', 'phone', 'reviews']",Boston,02128,$275.00,"$4,431.00",$139.00,2,$25.00,2,26
+9958026,A cozy room close to Downtown,"['email', 'phone', 'reviews', 'jumio']",Boston,02128,$80.00,"$1,300.00",$25.00,2,$20.00,1,22
+5616179,Beautiful brownstone great location,"['email', 'phone', 'reviews', 'kba']",Boston,02128,$140.00,"$2,415.00",$40.00,1,$25.00,2,33
+8514932,Summer in East Boston,"['email', 'phone', 'reviews', 'jumio']",Boston,02128,$115.00,"$1,600.00",$10.00,2,$10.00,2,20
+8469735,Boston Gladstone,"['email', 'phone', 'reviews']",Boston,02128,$50.00,$980.00,$30.00,1,$0.00,15,6
+182049,Herbivorian House SkyRama ,"['email', 'phone', 'facebook', 'reviews', 'jumio']",Boston,02128,$300.00,"$4,680.00",$100.00,4,$25.00,28,33
+5990808,City and Harbor views,"['email', 'phone', 'reviews', 'jumio']",Boston,02128,$189.00,"$3,600.00",$50.00,1,$0.00,2,39
+8757949,Cozy room near LoganAirport & City!,"['email', 'phone', 'reviews', 'kba']",Boston,02128,$65.00,"$1,386.00",$10.00,1,$20.00,1,22
+8624898,Modern 2BR steps to airport & train,"['email', 'phone', 'reviews', 'kba']",Boston,02128,$150.00,"$2,800.00",$30.00,4,$25.00,1,59
+5364137,**Studio by Airport and T Station**,"['email', 'phone', 'reviews', 'kba']",Boston,02128,$70.00,"$1,848.00",$40.00,1,$0.00,21,49
+4315439,Private Room Logan Airport,"['email', 'phone', 'facebook', 'reviews', 'jumio']",Boston,02128,$80.00,"$1,500.00",$100.00,1,$0.00,7,1
+5478135,City living near the beach!,"['email', 'phone', 'reviews']",Boston,02128,$195.00,"$3,500.00",$45.00,3,$20.00,2,17
+3615760,Cozy apartment in ideal location,"['email', 'phone', 'reviews']",Boston,02128,$110.00,"$2,294.00",$35.00,1,$0.00,1,76
+1051482,Andromeda Houseboat - Free Parking!,"['email', 'phone', 'reviews']",Boston,02128,$275.00,"$4,368.00",$139.00,2,$25.00,2,29
+1066767,"Lyra - Free parking, heated!","['email', 'phone', 'reviews']",Boston,02128,$275.00,"$4,500.00",$139.00,2,$25.00,2,17
+10945407,4 bedrooms apartment Unit 2,"['email', 'phone', 'reviews']",Boston,02128,$230.00,"$3,500.00",$50.00,0,$0.00,3,8
+7880828,"Cozy Room near Logan Airport ,T","['email', 'phone', 'reviews', 'kba']",Boston,02128,$79.00,"$1,092.00",$10.00,1,$0.00,1,90
+29765,"Luxury suite, Moroccan furnishings","['email', 'phone', 'reviews']",Boston,02129,$295.00,"$3,900.00",$25.00,2,$25.00,2,90
+10253899,"Large, lovely 4BR home in Boston","['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02129,$250.00,"$4,000.00",$125.00,1,$0.00,3,4
+2798599,Boston's Most Historic District!,"['email', 'phone', 'amex', 'kba']",Boston,02129,$200.00,"$4,000.00",$25.00,1,$0.00,1,0
+3721095,"Unique 3 Bed, 2 Bath Apartment ","['email', 'phone', 'reviews', 'kba']",Charlestown,02129,$375.00,"$7,500.00",$80.00,1,$0.00,2,98
+44205,Elegance at Salem Street Court,"['email', 'phone', 'reviews']",Boston,02129,$235.00,"$3,900.00",$25.00,2,$25.00,2,76
+189965,"Lovely, luxurious space 3rd floor .","['email', 'phone', 'reviews', 'manual_offline', 'jumio']",Boston,02129,$125.00,"$3,500.00",$100.00,1,$50.00,3,33
+2810123,"Hassle-Free, 2-Bd Charlestown Condo","['email', 'phone', 'reviews']",Charlestown,02129,$180.00,"$3,200.00",$50.00,4,$25.00,3,4
+2660908,$99 Historic Charm Walk to Subway,"['email', 'phone', 'facebook', 'reviews', 'jumio']",Boston,02129,$99.00,"$3,600.00",$99.00,1,$0.00,1,15
+2167993,Boston Waterfront Navy Yard Condo,"['email', 'phone', 'reviews', 'kba']",Boston,02129,$149.00,"$3,295.00",$100.00,1,$0.00,1,56
+6886946,"Sunny, Top Floor 2BR with Views","['email', 'phone', 'reviews', 'jumio', 'kba']",Boston,02129,$225.00,"$4,000.00",$50.00,1,$0.00,2,24
+8442940,Sunny house in historic district,"['email', 'phone', 'facebook', 'reviews', 'kba']",Charlestown,02129,$149.00,"$2,600.00",$25.00,3,$0.00,2,60
+6627802,Boston's Charlestown Navy Yard,"['email', 'phone', 'reviews']",Charlestown,02129,"$1,000.00","$14,000.00",$100.00,1,$0.00,200,0
+5719606,Stunning 2-Bed/2-Bath Townhouse in Historic Area,"['email', 'phone', 'facebook', 'reviews', 'kba']",Charlestown,02129,$330.00,"$7,500.00",$85.00,3,$0.00,2,1
+182613,Clean 3 Beds apt Charlestown Boston,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02129,$169.00,"$4,900.00",$150.00,4,$20.00,6,50
+7321217,Charlestown Penthouse w/ roof deck,"['email', 'phone', 'reviews', 'jumio']",Boston,02129,$200.00,"$5,000.00",$80.00,1,$0.00,2,18
+1102623,Penthouse Bedroom on Freedom Trail,"['email', 'phone', 'reviews', 'kba']",Boston,02129,$125.00,"$2,100.00",$60.00,1,$0.00,4,47
+7472068,Beautiful Bunker Hill 2 BD,"['email', 'phone', 'reviews', 'kba']",Boston,02129,$299.00,"$4,095.00",$120.00,4,$30.00,1,27
+1755376,[1535-1C] 1BR - West End High Rise,"['email', 'phone', 'reviews', 'jumio']",Boston,02114,$249.00,"$6,540.00",$150.00,1,$0.00,4,2
+4917583,Seconds from Mass General Hospital,"['email', 'phone']",Boston,02114,$185.00,"$4,900.00",$150.00,1,$0.00,30,0
+979759,"[1798]2BR at Emerson Place, Boston","['email', 'phone', 'reviews', 'jumio']",Boston,02114,$310.00,"$7,450.00",$150.00,1,$0.00,7,2
+965554,[1535-2C]2BR - West End High Rise,"['email', 'phone', 'reviews', 'jumio']",Boston,02114,$349.00,"$7,800.00",$150.00,1,$0.00,7,6
+4602191,Stunning Apartment on Charles River,"['email', 'phone']",Boston,02114,$395.00,"$7,600.00",$150.00,1,$0.00,3,0
+7596262,Furnished Luxury 1BR West End Apt.,"['email', 'phone', 'reviews', 'jumio']",Boston,02114,$169.00,"$6,665.00",$100.00,1,$0.00,10,8
+8191517,BOSTON - MGH -Beacon Hill- Downtown- great locatio,"['email', 'phone', 'reviews']",Boston,02114,$155.00,"$2,200.00",$35.00,1,$40.00,3,4
+4467841,Lux 2BR Apt Near Waterfront,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02114,$289.00,"$6,750.00",$100.00,1,$0.00,10,1
+3931204,Beacon Hill Lux 1BR w/pool & WiFi,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02114,$220.00,"$5,070.00",$100.00,1,$0.00,3,9
+25418,[1535-1N] 1BR - West End High Rise,"['email', 'phone', 'reviews', 'jumio']",Boston,02114,$249.00,"$5,650.00",$200.00,1,$0.00,3,4
+7855702,Furnished Luxury 2BR at West End,"['email', 'phone', 'reviews', 'jumio']",Boston,02114,$199.00,"$8,900.00",$100.00,1,$0.00,10,0
+6015995,1BR West End Apt. near Restaurants,"['email', 'phone', 'reviews', 'jumio']",Boston,02114,$189.00,"$8,900.00",$100.00,1,$0.00,10,4
+4489920,"Lux 1BR near Charles St w/pool, gym","['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02114,$209.00,"$5,850.00",$100.00,1,$0.00,10,1
+1867881,"Lux 2BR near Charles St w/pool, gym","['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02114,$269.00,"$7,170.00",$100.00,1,$0.00,10,4
+67774,Corner 1 bed facing Golden Dome,"['phone', 'reviews']",Boston,02108,$110.00,"$2,975.00",$250.00,0,$0.00,6,11
+1303261,HISTORIC BEACON HILL-ENJOY OUR CAT,"['email', 'phone', 'reviews', 'jumio']",Boston,02108,$425.00,"$9,500.00",$55.00,2,$45.00,2,19
+6432655,Beautiful Beacon Hill 1 Bedroom,"['email', 'phone', 'reviews']",Boston,02114,$150.00,"$2,500.00",$70.00,2,$0.00,30,34
+3377871,COZY 4th fl. historic Beacon Hill,"['email', 'phone', 'reviews', 'kba']",Boston,02114,$120.00,"$2,200.00",$30.00,1,$5.00,2,38
+7092874,Well lit condo in BeaconHill Boston,"['email', 'phone', 'reviews', 'kba']",Boston,02108,$260.00,"$7,600.00",$100.00,1,$0.00,5,1
+2947662,2BR PENTHOUSE W/Deck Boston Center,"['email', 'phone', 'reviews', 'jumio']",Boston,02114,$299.00,"$8,778.00",$85.00,4,$50.00,3,84
+13521992,Comfy room in the heart of Boston,"['email', 'phone', 'reviews', 'jumio']",Boston,02114,$169.00,"$3,199.00",$40.00,2,$39.00,1,0
+6763785,Little Room on the Hill,"['email', 'phone', 'reviews', 'jumio']",Boston,02114,$113.00,"$1,973.00",$20.00,1,$0.00,1,17
+586994,位于比肯山的1卧單位房源,"['email', 'phone', 'reviews']",Boston,02108,$175.00,"$2,500.00",$50.00,2,$0.00,4,62
+3520353,Luxury Beacon Hill Apartment 1-BR,"['email', 'phone', 'reviews', 'jumio']",Boston,02114,$238.00,"$5,568.00",$79.00,1,$0.00,2,66
+7614517,Beacon Hill Studio w/ patio&parking,"['email', 'phone', 'reviews', 'jumio']",Boston,02114,$200.00,"$4,800.00",$50.00,1,$0.00,3,39
+12356,"Renovated, State House View","['phone', 'reviews']",Boston,02108,$200.00,"$3,200.00",$250.00,0,$0.00,6,9
+8614167,Boston apartment with 2 double beds,"['email', 'phone', 'reviews', 'kba']",Boston,02108,$275.00,"$3,500.00",$100.00,3,$125.00,3,7
+5959251,Historic Beacon Hill/BackBay WOW!!!,"['email', 'phone', 'reviews', 'jumio']",Boston,02108,$375.00,"$4,900.00",$125.00,2,$0.00,7,5
+3432321,"Large, Sunny Beacon Hill Studio","['email', 'phone', 'reviews']",Boston,02108,$220.00,"$5,000.00",$85.00,3,$0.00,1,82
+5725804,"Top floor Brownstone, tree-lined st","['phone', 'reviews']",Boston,02114,$130.00,"$3,100.00",$150.00,0,$0.00,14,2
+7527864,Great Private Room in Beacon Hill,"['email', 'phone', 'reviews', 'jumio']",Boston,02114,$150.00,"$2,330.00",$60.00,1,$10.00,3,20
+13591091,"Charming, upscale Beacon Hill home","['email', 'phone', 'reviews', 'jumio']",Boston,02114,$189.00,"$3,699.00",$40.00,2,$39.00,3,1
+1745339,"Beacon Hill, Steps to Boston Common","['email', 'phone', 'reviews', 'jumio']",Boston,02108,$195.00,"$3,200.00",$60.00,4,$0.00,9,27
+7874552,Beacon Hill's Charles St.,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02114,$130.00,"$2,700.00",$50.00,1,$20.00,2,29
+697078,Spacious 1 bed facing State House,"['phone', 'reviews']",Boston,02108,$175.00,"$3,000.00",$250.00,0,$0.00,5,8
+3873776,"Large, Sunny Beacon Hill Apartment","['email', 'phone', 'reviews', 'kba']",Boston,02114,$325.00,"$7,000.00",$90.00,1,$0.00,1,7
+23619,Newly upgrade Beacon Hill Studio,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02108,$175.00,"$2,400.00",$50.00,2,$0.00,4,127
+7527149,Gorgeous Boston Townhouse Apartment,"['email', 'phone', 'reviews', 'kba']",Boston,02108,$700.00,"$15,000.00",$150.00,7,$50.00,5,11
+7918592,Classic Beacon Hill Apartment,"['email', 'phone', 'reviews', 'kba']",Boston,02114,$110.00,"$1,260.00",$40.00,1,$0.00,3,17
+6410674,Downtown Boston - Beacon Hill - New,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02114,$175.00,"$3,500.00",$30.00,1,$30.00,2,59
+4787359,1BD in Beacon Hill w. Amazing roof,"['email', 'phone', 'reviews', 'jumio']",Boston,02114,$250.00,"$5,500.00",$150.00,2,$75.00,1,18
+4032756,Airy Beacon Hill Flat w City Views,"['email', 'phone', 'reviews', 'jumio']",Boston,02114,$188.00,"$3,500.00",$50.00,2,$0.00,5,18
+7996844,Beacon Hill on Charles (#2),"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02114,$130.00,"$2,700.00",$50.00,1,$20.00,2,33
+8471852,Awesome North End Studio,"['email', 'phone', 'reviews', 'kba']",Boston,02113,$120.00,"$2,450.00",$25.00,0,$0.00,1,28
+1886037,Beautiful Penthouse in Beacon Hill,"['email', 'phone', 'reviews', 'jumio']",Boston,02114,$230.00,"$4,200.00",$100.00,1,$0.00,7,1
+3068453,Large Studio in Theater District,"['email', 'phone', 'facebook', 'reviews', 'jumio', 'kba']",Boston,02116,$133.00,"$1,323.00",$45.00,1,$15.00,1,74
+2821825,[1852-2C]2BRs in Downtown Boston,"['email', 'phone', 'reviews', 'jumio']",Boston,02111,$329.00,"$8,150.00",$150.00,1,$0.00,30,4
+21891,[1168-2NH]Lux 2BR - Downtown Boston,"['email', 'phone', 'reviews', 'jumio']",Boston,02111,$349.00,"$7,400.00",$200.00,1,$0.00,3,21
+9905304,Great Downtown Apt,"['email', 'phone', 'reviews']",Boston,02116,$375.00,"$6,500.00",$69.00,4,$20.00,3,1
+2747654,Nice Furnished Apt by Theater Distr,"['email', 'phone', 'facebook', 'reviews', 'jumio', 'kba']",Boston,02116,$150.00,"$1,386.00",$45.00,1,$15.00,1,67
+7838961,[1852-1NE]Elegant 1BR - Downtown Boston,"['email', 'phone', 'reviews', 'jumio']",Boston,02111,$269.00,"$6,900.00",$150.00,1,$0.00,7,0
+1240598,Downtown Studio Theater Dist Common,"['email', 'phone', 'facebook', 'reviews', 'jumio', 'kba']",Boston,02116,$152.00,"$1,785.00",$35.00,1,$15.00,1,76
+4924009,Small Studio by Theater District,"['email', 'phone', 'facebook', 'reviews', 'jumio', 'kba']",Boston,02116,$128.00,"$2,289.00",$35.00,1,$15.00,1,52
+497810,"LOCATION, LOCATION, LOCATION","['email', 'phone', 'reviews', 'kba']",Boston,02108 02111,$334.00,"$9,500.00",$120.00,4,$60.00,1,135
+4275846,Boston Studio Across from Majestic,"['email', 'phone', 'facebook', 'reviews', 'jumio', 'kba']",Boston,02116,$150.00,"$1,701.00",$40.00,1,$15.00,1,54
+10730,Bright 1bed facing Golden Dome,"['phone', 'reviews']",Boston,02108,$150.00,"$3,000.00",$250.00,0,$0.00,6,21
+5371687,"Chic, Stylish 1 BD on Beacon Hill","['email', 'phone', 'reviews', 'kba']",Boston,02108,$249.00,"$3,300.00",$100.00,1,$0.00,3,26
+60356,Bookcase 1bd facing Boston Common,"['phone', 'reviews']",Boston,02108,$175.00,"$2,900.00",$150.00,1,$0.00,7,5
+8792552,DOWNTOWN MODERN 2 BED,"['email', 'phone', 'reviews', 'kba']",Boston,02111,$265.00,"$4,300.00",$60.00,1,$0.00,1,38
+2547129,"Beautiful open concept,private  one bedroom","['email', 'phone', 'reviews', 'jumio']",Boston,02108,$199.00,"$3,400.00",$125.00,1,$0.00,3,9
+8563141,Apartment Above Downtown Crossing,"['email', 'phone', 'reviews', 'jumio']",Boston,02111,$285.00,"$5,500.00",$100.00,4,$0.00,2,37
+665035,[1218-1NH]1BR At Longfellow Place,"['email', 'phone', 'reviews', 'jumio']",Boston,02114,$249.00,"$6,380.00",$150.00,1,$0.00,4,0
+8792,Large 1 Bed facing State House,"['phone', 'reviews']",Boston,02108,$154.00,"$2,900.00",$250.00,0,$0.00,30,18
+2547075,"Bright, new, modern studio in downtown Boston","['email', 'phone', 'reviews', 'jumio']",Boston,02108,$150.00,"$2,800.00",$125.00,1,$10.00,3,20
+2776391,Super cool! Modern  2 bedroom loft ,"['email', 'phone', 'reviews', 'jumio']",Boston,02108,$235.00,"$5,000.00",$135.00,3,$10.00,3,34
+891953,"Downtown tri level, 900sq ft 1 bed","['email', 'phone', 'reviews', 'jumio']",Boston,02108,$175.00,"$3,400.00",$125.00,1,$0.00,3,13
+6936712,Beacon Hill top floor sunny studio,"['phone', 'reviews']",Boston,02108,$175.00,"$3,000.00",$200.00,0,$0.00,5,5
+38579,[1218-2NH]2BR Apartment in Boston,"['email', 'phone', 'reviews', 'jumio']",Boston,02114,$299.00,"$5,860.00",$200.00,1,$0.00,5,4
+70481,Beacon Hill 1bed facing Beacon St,"['phone', 'reviews']",Boston,02108,$175.00,"$3,100.00",$150.00,1,$0.00,5,6
+6181230,[1909-1N]1BR -The Victor-North End,"['email', 'phone', 'reviews', 'jumio']",Boston,02114,$249.00,"$9,873.00",$200.00,1,$0.00,4,2
+2821921,[1852-ST] Lux 2BR-Downtown Boston,"['email', 'phone', 'reviews', 'jumio']",Boston,02111,$329.00,"$6,900.00",$150.00,1,$0.00,4,3
+2410846,"Sunney, Beacon Hill one bedroom","['email', 'phone', 'reviews', 'jumio']",Boston,02108,$150.00,"$3,400.00",$200.00,1,$0.00,14,6
+1966195,Lux Downtown Boston 2BR Apt w/pool,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02111,$389.00,"$6,870.00",$100.00,1,$0.00,3,23
+1868124,Lux Downtown Boston 1BR Apt w/pool,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02111,$293.00,"$5,070.00",$100.00,1,$0.00,3,8
+67946,[1330-1C] Lux High Rise in Fenway,"['email', 'phone', 'reviews', 'jumio']",Boston,02115,$249.00,"$5,500.00",$150.00,1,$0.00,3,1
+52423,[1125]Furnished 1BR,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$349.00,"$6,950.00",$150.00,1,$0.00,4,4
+54215,[1246-2C]Lux 2BR - Fenway Area,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$349.00,"$7,850.00",$150.00,1,$0.00,3,5
+25142,[1246]Beautiful 2BRs - Fenway Area,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$349.00,"$6,700.00",$150.00,1,$0.00,3,9
+8955473,Best Apt near Longwood Medical,"['email', 'phone']",Boston,02215,$275.00,"$6,990.00",$150.00,1,$0.00,4,0
+8187052,Luxury 2BR Apt. in Boston Fenway,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$319.00,"$9,145.00",$100.00,1,$0.00,3,0
+8925974,Large Luxury Apt in Boston's Fenway,"['email', 'phone']",Boston,02215,$375.00,"$7,400.00",$150.00,1,$0.00,3,0
+39116,Private Room/Perfect Location!,"['email', 'phone', 'reviews', 'kba']",Boston,02215,$99.00,"$1,499.00",$25.00,1,$25.00,1,46
+1867754,Lux 1BR near Fenway w/WiFi,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02215,$228.00,"$5,550.00",$100.00,1,$0.00,3,1
+2243499,Lux 1 BR in the Heart of Fenway,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02215,$285.00,"$5,970.00",$100.00,1,$0.00,3,1
+6356533,Lux 2BR by Fenway w/WiFi,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02215,$279.00,"$8,070.00",$100.00,1,$0.00,3,14
+9452993,Summer at The Heart of Boston,"['email', 'phone', 'reviews', 'kba']",Boston,02115,$60.00,"$1,200.00",$10.00,1,$25.00,7,11
+8141545,1BR Furnished apt in Boston Fenway,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$189.00,"$6,789.00",$100.00,1,$0.00,3,0
+6568621,Lux 2BR by Fenway w/WiFi,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02215,$279.00,"$8,070.00",$100.00,1,$0.00,3,10
+3914363,Lux 1BR by Fenway w/WiFi,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02215,$219.00,"$6,270.00",$100.00,1,$0.00,3,5
+6027467,Luxury 1BR in Boston/ Fenway Area,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$239.00,"$6,900.00",$100.00,1,$0.00,3,3
+5125723,Beautiful flat steps from BackBay,"['email', 'phone', 'reviews', 'kba']",Boston,02115,$100.00,"$2,500.00",$60.00,1,$70.00,1,29
+9041513,Lux 1BR by Fenway w/wifi,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02215,$219.00,"$11,970.00",$100.00,1,$0.00,3,0
+228883,[1330-2] Lux 2BR in The Fenway,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$349.00,"$7,000.00",$150.00,1,$0.00,3,4
+6951829,Lux Furnished 2BR in Boston/ Fenway,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$319.00,"$8,649.00",$100.00,1,$0.00,3,1
+1863443,Lux 1BR by Fenway w/WiFi,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02215,$219.00,"$6,270.00",$100.00,1,$0.00,3,5
+7220216,Lux 2BR in Fenway w/rooftop lounge,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02215,$429.00,"$8,970.00",$100.00,1,$0.00,3,0
+1864705,Lux 2BR by Fenway w/WiFi,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02215,$279.00,"$8,070.00",$100.00,1,$0.00,3,10
+4109165,Lux 1BR by Fenway w/WiFi,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02215,$219.00,"$6,270.00",$100.00,1,$0.00,3,1
+7499960,"LOCATION! SAFE,CENTRAL CITY! CHARM!","['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02215,$295.00,"$3,200.00",$50.00,1,$50.00,4,9
+5990896,"Studio, 2 min walk Symphony T/Hynes","['email', 'phone', 'reviews']",Boston,02115,$85.00,"$1,890.00",$8.00,1,$0.00,1,37
+9040476,Lux 2BR by Fenway w/Wifi,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02215,$279.00,"$11,970.00",$100.00,1,$0.00,3,0
+6844012,Luxury 2BR in Boston & Fenway,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$199.00,"$8,649.00",$100.00,1,$0.00,3,1
+8165898,Boston Fenway furnished 2br apt.,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$319.00,"$9,145.00",$100.00,1,$0.00,3,3
+8335838,Luxury 2BR Boston Apt.,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$319.00,"$9,145.00",$100.00,1,$0.00,3,0
+716512,[1330-2/1] Lux 2BR in The Fenway,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$349.00,"$7,315.00",$150.00,1,$0.00,4,0
+8187595,Lux Furnished 2BR Boston Apt.,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$319.00,"$9,145.00",$100.00,1,$0.00,3,0
+4565470,Lux 2BR by Fenway w/WiFi,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02215,$279.00,"$8,070.00",$100.00,1,$0.00,3,3
+6467991,Private Room & Bath In Kenmore Sq,"['email', 'phone', 'reviews', 'kba']",Boston,02215,$80.00,"$1,650.00",$100.00,1,$0.00,25,0
+9855,[1330-1D] Lux 1BR  w/ Den - Fenway,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$259.00,"$5,700.00",$150.00,1,$0.00,4,3
+8168982,2BR Lux Apt. in Boston Fenway,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$199.00,"$9,145.00",$100.00,1,$0.00,3,0
+6268395,Lux Fully Furnished 1BR Boston Apt.,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$169.00,"$6,665.00",$100.00,1,$0.00,3,0
+7869497,New Lux 1BR at Fenway,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$349.00,"$7,409.00",$100.00,1,$0.00,3,2
+6790961,Luxury 2BR in Boston/ Fenway Area.,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$319.00,"$8,649.00",$100.00,1,$0.00,3,1
+7219056,Lux 1BR in Fenway w/rooftop lounge,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02215,$379.00,"$6,450.00",$100.00,1,$0.00,3,0
+8335652,2BR Boston Fully Furnished Apt.,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$319.00,"$9,145.00",$100.00,1,$0.00,3,0
+6317304,Sunny & beautiful! Walk everywhere!,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02215,$193.00,"$3,500.00",$60.00,1,$0.00,1,56
+8336347,Boston Fenway 2BR Furnished Apt.,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$319.00,"$9,145.00",$100.00,1,$0.00,3,2
+8085906,Luxury 1BR at Boston Fenway Area,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$169.00,"$6,789.00",$100.00,1,$0.00,3,0
+8184007,Lux 2br in Boston Fenway,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$319.00,"$9,145.00",$100.00,1,$0.00,3,0
+1819994,Riverview! WALK EVERYWHERE. Best Central Location.,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02215,$310.00,"$4,800.00",$60.00,14,$0.00,1,1
+4040151,Lux 2BR by Fenway w/WiFi,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02215,$279.00,"$8,070.00",$100.00,1,$0.00,3,15
+5086521,Modern & spacious studio for two,"['email', 'phone', 'reviews', 'jumio']",Boston,02115,$142.00,"$2,562.00",$45.00,1,$0.00,3,32
+6015021,Lux Fully Furnished 1BR Boston Apt,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$169.00,"$6,665.00",$100.00,1,$0.00,3,2
+2186358,Lux 1 BR in the Heart of Fenway,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02215,$285.00,"$5,970.00",$100.00,1,$0.00,3,9
+8099266,Lux Furnished 1BR in Boston Fenway,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$169.00,"$6,789.00",$100.00,1,$0.00,3,0
+8334845,Lux Furnished Boston Fenway 2br Apt,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$319.00,"$9,145.00",$100.00,1,$0.00,3,0
+7869368,New Luxury 1BR Apartment at Fenway,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$349.00,"$7,409.00",$100.00,1,$0.00,2,0
+8164953,Lux 2br Boston Fenway Apt.,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$319.00,"$9,145.00",$100.00,1,$0.00,3,0
+7508865,Luxury 1BR Apt in Fenway Area,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$169.00,"$6,789.00",$100.00,1,$0.00,3,3
+8164146,Furnished 2br apt. in Boston Fenway,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$319.00,"$9,145.00",$100.00,1,$0.00,2,0
+7869167,New Luxury 1BR Apartment In Fenway,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$349.00,"$7,409.00",$100.00,1,$0.00,3,0
+8081935,Boston Fennway lux 1br apt.,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$169.00,"$6,789.00",$100.00,1,$0.00,3,0
+6444138,Lux 2 BR in the Heart of Fenway,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02215,$603.00,"$8,070.00",$100.00,1,$0.00,3,3
+36885,A Cozy Corner of Boston,"['email', 'phone', 'facebook', 'reviews']",Boston,02215,$155.00,"$2,750.00",$85.00,2,$0.00,5,125
+8163273,2br Lux Apt. in Boston Fenway,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$319.00,"$9,145.00",$100.00,1,$0.00,3,1
+3903324,Lux 1BR by Fenway w/WiFi,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02215,$219.00,"$6,270.00",$100.00,1,$0.00,3,6
+8097453,Luxury 1BR Boston Apt in Fenway,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$169.00,"$6,789.00",$100.00,1,$0.00,3,1
+8146576,Luxurious 2Br apt. in Boston Fenway,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$319.00,"$9,145.00",$100.00,1,$0.00,3,1
+180914,[1125-1]Furnished 1BR - Landmark Square,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$249.00,"$4,950.00",$150.00,1,$0.00,3,2
+4181163,Lux 2BR by Fenway w/WiFi,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02215,$279.00,"$8,070.00",$100.00,1,$0.00,3,3
+7573274,Luxury 2BR/2BA Apt. + Outdoor Pool!,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$199.00,"$8,835.00",$100.00,1,$0.00,3,2
+2214923,Lux 2 BR in the Heart of Fenway,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02215,$603.00,"$11,970.00",$100.00,1,$0.00,3,0
+8063870,Lux 1BR by Fenway w/WiFi,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02215,$219.00,"$6,270.00",$100.00,1,$0.00,3,2
+8162168,Lux 2br Boston Fenway  Apt.,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$319.00,"$9,145.00",$100.00,1,$0.00,3,0
+8063815,Luxury 1BR in Boston Fenway,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$169.00,"$6,789.00",$100.00,1,$0.00,3,0
+6324649,Private Room in the Heart of Boston,"['email', 'phone', 'facebook', 'reviews', 'jumio']",Boston,02115,$115.00,"$2,000.00",$20.00,1,$25.00,1,54
+8145397,Luxury 1BR in Boston Fenway,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$229.00,"$6,789.00",$100.00,1,$0.00,3,0
+8325366,Furnished 2br Boston Fenway Apt.,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$319.00,"$9,145.00",$100.00,1,$0.00,3,0
+8439372,Brand New Apt in Great Location!,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$295.00,"$6,000.00",$99.00,3,$10.00,3,29
+8325544,2br Lux Apt. in Boston Fenway,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$319.00,"$9,145.00",$100.00,1,$0.00,3,1
+7325063,New Luxury 1BR Apt Near Fenway Park,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$249.00,"$7,409.00",$100.00,1,$0.00,3,0
+5259996,Bay State in the Back Bay,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02215,$245.00,"$5,880.00",$175.00,1,$25.00,25,0
+5834413,Luxury 2BR in Boston/ Fenway Area,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$199.00,"$9,440.00",$100.00,1,$0.00,3,2
+6793913,Luxury 2BR in Boston & Fenway Area,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$319.00,"$8,649.00",$100.00,1,$0.00,3,2
+8325030,Luxury 2BR Apt. in Boston Fenway,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$319.00,"$9,145.00",$100.00,1,$0.00,3,0
+951473,[1246-1C] Lux 1BR in The Fenway,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$309.00,"$7,032.00",$150.00,1,$0.00,3,0
+2360109,Fenway Park Top Floor Quiet Gem,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$115.00,"$1,900.00",$50.00,1,$25.00,2,43
+3309941,Lux 2BR by Fenway w/WiFi,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02215,$279.00,"$8,070.00",$100.00,1,$0.00,3,18
+196806,"Comfy couch, Centrally located","['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02115,$79.00,"$1,899.00",$25.00,1,$0.00,4,41
+7741566,The Cape Cod Room near Harvard Square,"['email', 'phone', 'reviews', 'kba']",Boston,02135,$79.00,"$1,750.00",$25.00,1,$20.00,2,19
+5295491,The Treehouse,"['email', 'phone', 'reviews', 'jumio']",Boston,02135,$145.00,"$2,495.00",$28.00,1,$45.00,1,26
+8388481,The Misty Morning near Harvard Square (Bedroom F),"['email', 'phone', 'reviews', 'kba']",Boston,02135,$79.00,"$1,350.00",$30.00,1,$20.00,2,4
+5406448,"LOCATED IN THE HEART OF BRIGHTON,MA","['email', 'phone']",Boston,02135,$199.00,"$3,500.00",$120.00,1,$75.00,2,0
+8780440,"BC,BU sleeps 4,close to T,Boston","['email', 'phone', 'reviews', 'jumio']",Boston,02135,$110.00,"$2,700.00",$100.00,1,$0.00,2,10
+8515356,The Sunrise Room near Harvard Square (Bedroom G),"['email', 'phone', 'reviews', 'kba']",Boston,02135,$89.00,"$1,350.00",$25.00,1,$20.00,2,8
+1110423,STYLISH BRIGHTON 2 BED CONDO WITH PARKING SPOT!,"['email', 'phone', 'reviews', 'kba']",Boston,02135,$250.00,"$4,000.00",$50.00,3,$50.00,2,42
+3060038,Stunning room in hipster town,"['email', 'phone', 'amex', 'reviews', 'jumio']",Boston,02135,$79.00,"$1,500.00",$70.00,1,$20.00,1,24
+6646604,"Sunny renovated 1 bed, near BC,BU","['email', 'phone', 'reviews', 'jumio']",Boston,02135,$125.00,"$3,000.00",$100.00,3,$0.00,2,30
+9256035,Crisp Linen Living near Harvard Square,"['email', 'phone', 'reviews', 'kba']",Boston,02135,$59.00,"$1,350.00",$25.00,1,$20.00,2,10
+8417742,Cloud 9 near Harvard Square,"['email', 'phone', 'reviews', 'kba']",Boston,02135,$129.00,"$1,750.00",$25.00,1,$20.00,2,9
+6954861,Cozy and Easy Access to Everything,"['email', 'phone', 'reviews', 'jumio', 'kba']",Brookline,02445,$110.00,"$2,195.00",$15.00,2,$60.00,1,87
+8789821,Renovated -- Single Room,"['email', 'phone', 'reviews', 'kba']",Boston,02135,$89.00,"$1,425.00",$35.00,1,$20.00,1,7
+7511838,The Mandarin near Harvard Square,"['email', 'phone', 'reviews', 'kba']",Boston,02135,$85.00,"$1,750.00",$25.00,1,$20.00,2,22
+9250014,The Tiffany Room near Harvard Square,"['email', 'phone', 'reviews', 'kba']",Boston,02135,$79.00,"$1,200.00",$25.00,1,$20.00,2,10
+2729015,"One bedroom, one bath apartment","['email', 'phone', 'reviews']",Boston,02135,$85.00,"$2,200.00",$200.00,1,$50.00,3,1
+7840752,"Beautiful sunny room, walk to train!","['email', 'phone', 'reviews', 'jumio']",Boston,02135,$125.00,"$2,300.00",$100.00,1,$0.00,10,0
+8626752,Comfortable and Quiet,"['email', 'phone', 'reviews', 'jumio']",Boston,02135,$65.00,"$1,000.00",$10.00,2,$30.00,2,0
+7509273,The Sail Loft near Harvard Square,"['email', 'phone', 'reviews', 'kba']",Boston,02135,$69.00,"$1,150.00",$25.00,1,$20.00,2,7
+7921649,The Rolls Royce Room near Harvard Square,"['email', 'phone', 'reviews', 'kba']",Boston,02135,$79.00,"$1,750.00",$30.00,1,$20.00,2,16
+7805515,The Presidential with Private Bath,"['email', 'phone', 'reviews', 'kba']",Boston,02135,$120.00,"$1,800.00",$25.00,1,$20.00,2,17
+4652263,Cozy 1 BR APT with assigned parking,"['email', 'phone', 'reviews']",Boston,02135,$250.00,"$2,800.00",$100.00,1,$0.00,1,1
+9255725,Power Flower Room near Harvard Square,"['email', 'phone', 'reviews', 'kba']",Boston,02135,$68.00,"$1,050.00",$25.00,1,$20.00,2,10
+9114896,"Pvt fl w/2BR, 1B, 1LR w/couchbed","['email', 'phone', 'amex', 'reviews', 'jumio']",Boston,02135,$150.00,"$2,800.00",$25.00,2,$35.00,2,34
+1185034,Private Condo in Boston,"['email', 'phone', 'reviews']",Boston,02135,$163.00,"$2,520.00",$30.00,2,$45.00,1,16
+8934599,Renovated 3 Bed House Near Harvard!,"['email', 'phone', 'reviews', 'kba']",Boston,02135,$283.00,"$4,500.00",$75.00,1,$0.00,3,7
+1545185,New 1Bed w/ Gorgeous Kitchen + Bath,"['email', 'phone', 'facebook', 'reviews', 'jumio']",Boston,02135,$140.00,"$2,500.00",$60.00,2,$25.00,1,31
+3412990,c Secluded & Serene Allst/Brigh,"['email', 'phone', 'reviews', 'kba']",Boston,02134,$60.00,"$1,200.00",$10.00,1,$20.00,30,60
+8753559,Quaint Room in a Classy Apartment,"['email', 'phone', 'reviews', 'jumio']",Brighton,02135,$50.00,"$3,000.00",$20.00,1,$30.00,1,27
+7310887,Sunny Spacious Brookline Apartment,"['email', 'phone', 'reviews', 'kba']",Boston,02135,$285.00,"$5,000.00",$95.00,5,$75.00,3,72
+3181719,Double room full bath and Parking,"['email', 'phone', 'reviews', 'kba']",Boston,02135,$115.00,"$2,150.00",$50.00,2,$10.00,2,44
+4410765,"Great Location & Value.Large 3 Bed, Min stay 3 mos","['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02135,$135.00,"$2,500.00",$180.00,5,$50.00,60,3
+5606682,Between BU/BC & great for groups,"['email', 'phone', 'reviews']",Brighton,02135,$211.00,"$3,100.00",$75.00,2,$15.00,2,39
+7735518,2 Bedrooms Near Harvard Square!,"['email', 'phone', 'reviews', 'kba']",Boston,02135,$189.00,"$3,700.00",$50.00,2,$20.00,2,1
+9685102,Spacious double room in Boston MA,"['email', 'phone', 'facebook', 'reviews']",Boston,02135,$65.00,"$1,100.00",$10.00,1,$15.00,1,42
+4489752,Beautiful Boston 2 Bed Apartment,"['email', 'phone', 'reviews', 'kba']",Boston,02135,$200.00,"$3,200.00",$50.00,4,$25.00,2,22
+1523772,Blue & White Haven,"['email', 'phone', 'reviews']",Boston,02135,$120.00,"$3,200.00",$300.00,1,$50.00,4,0
+2294730,Nice room in house/Harvard square,"['email', 'phone', 'reviews']",Boston,02134,$90.00,"$1,500.00",$30.00,1,$10.00,2,9
+5784404,Single Room Near Harvard,"['email', 'phone', 'reviews', 'kba']",Boston,02135,$89.00,"$1,900.00",$40.00,1,$20.00,1,14
+962610,Convenient Boston Hotel Alternative,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02131,$119.00,"$2,550.00",$25.00,2,$35.00,3,33
+601763,The Alameda 2 | 2BR 1BA | 2nd Floor,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02132,$125.00,"$3,200.00",$175.00,2,$10.00,2,0
+6300089,"Rustic, european style 3 bed/2bath","['email', 'phone', 'reviews', 'kba']",Boston,02132,$245.00,"$4,450.00",$75.00,6,$45.00,2,22
+6261296,"Free parking, spacious private room","['email', 'phone', 'reviews', 'jumio']",Boston,02132,$70.00,"$2,000.00",$20.00,1,$20.00,2,58
+6131224,Hidden Gem in Boston (Hyde Park),"['email', 'phone', 'reviews', 'jumio']",Boston,02136,$250.00,"$7,000.00",$75.00,1,$0.00,3,10
+4699828,Charming Victorian Furnished Home,"['email', 'phone', 'reviews', 'kba']",Boston,02136,$160.00,"$2,800.00",$150.00,1,$0.00,4,30
+890705,Lower Mills Area Victorian Home,"['email', 'phone', 'reviews']",Mattapan,02126,$75.00,"$1,000.00",$15.00,1,$20.00,1,16
+1173306,Lower Mills Victorian Home SuiteTwo,"['email', 'phone', 'reviews']",Mattapan,02126,$75.00,"$1,000.00",$15.00,1,$20.00,1,23
+2931870,Victorian In-law,"['email', 'phone', 'reviews', 'jumio']",Boston,02126,$79.00,"$1,200.00",$25.00,2,$25.00,1,48
+2931271,3 bedrooms in Victorian home.,"['email', 'phone', 'reviews', 'jumio']",Boston,02126,$169.00,"$4,515.00",$75.00,5,$25.00,1,27
+2278704,Victorian queen,"['email', 'phone', 'reviews', 'jumio']",Boston,02126,$69.00,"$1,200.00",$25.00,2,$0.00,1,81
+10234895,"Cozy room, 2 min walk to redline T","['email', 'phone', 'reviews', 'jumio']",Boston,02124,$55.00,"$1,070.00",$40.00,1,$10.00,1,3
+177129,Comfort in Historic Melville Park 1,"['email', 'phone', 'reviews', 'kba']",Boston,02124,$69.00,"$1,400.00",$40.00,1,$20.00,2,131
+3522237,Harmonious and friendly place,"['email', 'phone', 'reviews']",Dorchester,02121,$45.00,"$1,300.00",$20.00,1,$20.00,7,2
+737519,Gorgeous 2 BR In Boston,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02122,$120.00,"$1,900.00",$50.00,1,$0.00,5,3
+6005290,Great Brownstone-Private Room,"['email', 'phone', 'reviews', 'kba']",Boston,02124,$73.00,"$1,200.00",$75.00,0,$0.00,4,1
+7389719,A small cozy room outside of Boston,"['email', 'phone', 'reviews', 'jumio', 'kba']",Dorchester,02124,$40.00,$625.00,$15.00,1,$0.00,3,0
+2764624,Star light room,"['email', 'phone', 'facebook', 'reviews', 'jumio']",Boston,02122,$88.00,"$1,911.00",$10.00,2,$10.00,1,109
+11376403,Nice Private Room with Airbed,"['email', 'phone', 'reviews']",Boston,02121,$35.00,$850.00,$50.00,0,$0.00,10,5
+8899828,Comfortable Brownstone Home,"['email', 'phone', 'reviews', 'kba']",Boston,02124,$79.00,$950.00,$75.00,1,$0.00,4,0
+31796,Big room with two bed/Room A,"['email', 'phone', 'facebook', 'reviews', 'kba']",Dorchester,02122,$65.00,"$1,350.00",$15.00,1,$15.00,1,291
+1128894,Victorian charm in the city,"['email', 'phone', 'facebook', 'reviews', 'jumio']",Boston,02122,$60.00,"$1,200.00",$10.00,2,$10.00,1,50
+3193484,1BR 2-5 minutes walk to Red Line!,"['email', 'phone', 'reviews']",Boston,02124,$70.00,"$1,400.00",$50.00,0,$0.00,7,3
+3389896,Premium Boston Apartment,"['email', 'phone', 'reviews', 'jumio']",Boston,02122,$59.00,"$1,419.00",$19.00,2,$75.00,1,4
+1112067,warm and Cozy,"['email', 'phone', 'facebook', 'reviews', 'jumio']",Boston,02122,$73.00,"$1,869.00",$10.00,1,$10.00,1,129
+7927765,Andrew Sq Room Close to T&Shops,"['email', 'phone', 'reviews']",Boston,02125,$105.00,"$1,700.00",$85.00,1,$20.00,3,2
+4879579,Stunning New Unit w/ 2 Parking Spots!,"['email', 'phone', 'reviews', 'jumio']",Dorchester,02125,$264.00,"$3,000.00",$75.00,6,$10.00,1,6
+3765289,"Umass,MGH,City,BCEC,Longwood 2A","['email', 'phone', 'reviews', 'kba']",Boston,02125,$65.00,"$1,700.00",$40.00,1,$0.00,4,2
+6523777,Home Comfort on the Red Line,"['email', 'phone', 'reviews']",Boston,02125,$70.00,"$2,000.00",$10.00,1,$15.00,1,55
+13578911,Bright Room #4 Close JFK Red Line T Station,"['email', 'phone', 'reviews', 'kba']",Boston,02125,$45.00,"$1,200.00",$50.00,1,$20.00,15,1
+3765014,"Umass,MGH,City,BCEC, Longwood(E)","['email', 'phone', 'reviews', 'kba']",Boston,02125,$49.00,"$1,100.00",$49.00,1,$0.00,4,9
+4484747,"Umass, MGH, City, BCEC, Longwood3E","['email', 'phone', 'reviews', 'kba']",Boston,02125,$49.00,"$1,100.00",$45.00,1,$0.00,3,5
+4484798,"Umass, City, MGH,BECE,Longwood 3A","['email', 'phone', 'reviews', 'kba']",Boston,02125,$68.00,"$1,700.00",$49.00,1,$0.00,2,16
+3303860,"Umass,city, longwood, MGH, BCEC 16B","['email', 'phone', 'reviews', 'kba']",Boston,02125,$65.00,"$1,450.00",$49.00,2,$0.00,3,4
+7939556,Andrew Sq - Quiet Yellow Room,"['email', 'phone', 'reviews']",Boston,02125,$100.00,"$1,650.00",$85.00,1,$15.00,2,1
+7934491,A Very Large Room - Beige Room,"['email', 'phone', 'reviews']",Boston,02125,$135.00,"$1,450.00",$100.00,1,$20.00,3,0
+6626933,Cozy room w/ pvt ba near Red Line!,"['email', 'phone', 'facebook', 'reviews', 'jumio']",Boston,02125,$75.00,"$1,750.00",$25.00,1,$20.00,2,50
+4793787,Beautiful Apt/Queen Bed/Near Subway,"['email', 'phone', 'reviews', 'kba']",Boston,02125,$45.00,"$1,900.00",$40.00,1,$30.00,1,110
+13574652,Nice Private Room#3 near to JFK/UMass Red Line,"['email', 'phone', 'reviews', 'kba']",Boston,02125,$60.00,"$1,500.00",$50.00,1,$20.00,7,0
+10559976,Lovely huge room right by subway T,"['email', 'phone', 'reviews', 'jumio']",Boston,02124,$55.00,"$1,090.00",$40.00,1,$10.00,1,0
+9279773,"Great Room near Red Line, free parking","['email', 'phone', 'reviews', 'kba']",Boston,02125,$70.00,"$1,000.00",$25.00,1,$25.00,1,14
+7725279,Visit Boston 30 min from Downtown#2,"['email', 'phone', 'reviews', 'jumio', 'kba']",Dorchester,02124,$40.00,$800.00,$10.00,1,$0.00,2,21
+9494511,Cozy Room in Large Home!,"['email', 'phone', 'reviews', 'kba']",Boston,02124,$59.00,$950.00,$25.00,1,$10.00,1,29
+7449448,Visit Boston 30 min from Downtown,"['email', 'phone', 'reviews', 'jumio', 'kba']",Boston,02124,$45.00,$900.00,$10.00,1,$0.00,2,13
+533152,The Penthouse | 2BR 1BA | 4th Floor,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02125,$125.00,"$3,500.00",$150.00,2,$10.00,2,12
+3415434,"Umass, MGH, City,BCEC,Longwood 2B","['email', 'phone', 'reviews', 'kba']",Boston,02125,$63.00,"$1,600.00",$50.00,1,$0.00,4,8
+4431210,"Umass, MGH, City,BCEC,Longwood 3B","['email', 'phone', 'reviews', 'kba']",Boston,02125,$49.00,"$1,100.00",$49.00,1,$0.00,3,5
+826706,Private Room in Spacious Apartment3,"['email', 'phone', 'reviews', 'kba']",Boston,02121,$72.00,"$1,369.00",$25.00,2,$10.00,3,7
+3628320,Sunny Two Bedroom Condo,"['email', 'phone', 'facebook', 'amex', 'reviews', 'kba']",Boston,02122,$130.00,"$1,400.00",$50.00,2,$5.00,1,12
+400067,Private Room in Spacious Apartment1,"['email', 'phone', 'reviews', 'kba']",Boston,02121,$56.00,"$1,099.00",$25.00,1,$10.00,3,20
+3250847,Cozy room #1 at nice apt. in Boston,"['email', 'phone', 'reviews', 'jumio']",Boston,02125,$70.00,"$1,200.00",$20.00,1,$20.00,2,4
+530983,The Grand View | 4 BR 2BA | Home,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02125,$175.00,"$5,000.00",$200.00,4,$10.00,2,19
+531552,The Shawmut | 2BR 1BA | 1st Floor,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02122,$125.00,"$3,500.00",$150.00,2,$10.00,2,11
+3250739,"Umass,City,MGH,Longwood(BI,BWH)(D)","['email', 'phone', 'reviews', 'kba']",Boston,02125,$65.00,"$1,700.00",$49.00,1,$0.00,4,16
+6887926,"Umass,MGH,Harvard,MIT,Longwood A3","['email', 'phone', 'reviews', 'kba']",Boston,02125,$68.00,"$1,700.00",$45.00,1,$0.00,1,3
+579605,The Mayhew | 2BR 1BA | 3rd Floor,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02125,$125.00,"$3,500.00",$150.00,2,$10.00,2,10
+6870485,A cozy room close to Downtown Bosto,"['email', 'phone', 'reviews', 'jumio']",Boston,02125,$65.00,"$1,100.00",$25.00,1,$20.00,1,7
+3052935,Cozy room #3 at nice apt. in Boston,"['email', 'phone', 'reviews', 'jumio']",Boston,02125,$70.00,"$1,200.00",$20.00,1,$20.00,2,13
+4527029,"Umass,City, BECE, MGH, Longwood 16s","['email', 'phone', 'reviews', 'kba']",Boston,02125,$46.00,"$1,060.00",$49.00,1,$0.00,5,7
+7476936,Harbor Point onthe Bay-UMass Boston,"['email', 'phone', 'facebook', 'reviews', 'jumio']",Boston,02125,$100.00,"$1,000.00",$50.00,1,$0.00,1,3
+18711,The Dorset | 3BR 1BA | 1st Floor,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02125,$126.00,"$3,500.00",$175.00,3,$10.00,6,17
+561769,The Sky View | 2BR 1BA | 3rd Floor,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02125,$142.00,"$4,000.00",$150.00,2,$10.00,2,4
+4494419,"Umass, city,MGH,BCEC,Longwood 16E","['email', 'phone', 'reviews', 'kba']",Boston,02125,$59.00,$950.00,$49.00,1,$0.00,3,2
+839265,Private Room in Spacious Apartment2,"['email', 'phone', 'reviews', 'kba']",Boston,02121,$56.00,"$1,099.00",$25.00,1,$10.00,3,16
+232990,Comfort in Historic Melville Park 3,"['email', 'phone', 'reviews', 'kba']",Boston,02124,$79.00,"$1,400.00",$40.00,1,$20.00,2,55
+4503393,"Umass, City, MGH, BCEC, Longwood 2E","['email', 'phone', 'reviews', 'kba']",Boston,02125,$55.00,"$1,100.00",$50.00,1,$0.00,3,3
+4934600,Newly Renovated Studio,"['email', 'phone', 'reviews', 'kba']",Boston,02122,$150.00,"$3,066.00",$50.00,3,$25.00,2,64
+533114,The Sawyer | 2BR 2.5BA | 1st Floor,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02125,$168.00,"$4,000.00",$175.00,2,$10.00,2,8
+12175961,Very Close 2 Red Line with AirBed!,"['email', 'phone', 'reviews']",Boston,02124,$35.00,$867.00,$50.00,0,$0.00,10,1
+6965516,Comfortable Brownstone Home,"['email', 'phone', 'reviews', 'kba']",Boston,02124,$73.00,$925.00,$75.00,0,$0.00,4,1
+5048406,3rd floor room in Victorian House,"['email', 'phone', 'reviews', 'kba']",Boston,02125,$78.00,"$1,008.00",$30.00,1,$25.00,2,23
+3311675,"Umass, Harvard, MGH,Longwood, 16D","['email', 'phone', 'reviews', 'kba']","dorchester, boston ",02125,$52.00,"$1,100.00",$50.00,1,$0.00,5,3
+3294775,Sea view near metro & city center!,"['email', 'phone', 'reviews', 'kba']",Boston,02125,$65.00,"$1,800.00",$10.00,1,$20.00,2,62
+8947232,5 minutes walk To T Private Room!,"['email', 'phone', 'reviews']",Boston,02124,$60.00,"$1,300.00",$50.00,0,$0.00,10,6
+200265,Comfort in Historic Melville Park 2,"['email', 'phone', 'reviews', 'kba']",Boston,02124,$79.00,"$1,400.00",$40.00,1,$20.00,2,118
+7292184,Bright home with lots of character!,"['email', 'phone', 'reviews', 'kba']",Boston,02122,$60.00,"$1,500.00",$10.00,1,$10.00,2,21
+3539510,The Roseclair | 3BR 1BA | 2nd Floor,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02125,$164.00,"$3,500.00",$150.00,3,$10.00,2,12
+213086,Cozy room #2 at nice apt. in Boston,"['email', 'phone', 'reviews', 'jumio']",Boston,02125,$70.00,"$1,200.00",$20.00,1,$20.00,2,22
+3294152,"Garden apartment near subway, beach","['email', 'phone', 'reviews', 'kba']",Boston,02125,$130.00,"$2,530.00",$20.00,3,$20.00,2,77
+7454966,"Umass, City, MGH, Longwood, BWH (A)","['email', 'phone', 'reviews', 'kba']",Boston,02125,$69.00,"$1,700.00",$45.00,1,$0.00,2,9
+5191658,Beautiful New Loft Downtown Boston,"['email', 'phone', 'reviews', 'kba']",Boston,02210,$250.00,"$6,450.00",$35.00,1,$0.00,3,24
+8271384,Bright Studio by Convention Center,"['email', 'phone', 'reviews', 'jumio']",Boston,02127,$125.00,"$1,800.00",$50.00,2,$0.00,1,90
+6598203,Lux 2BR Apt Near Seaport w/WiFi,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02210,$603.00,"$13,920.00",$100.00,1,$0.00,3,12
+6843850,Boston Penthouse / Seaport District,"['email', 'phone', 'reviews', 'jumio']",Boston,02210,$500.00,"$6,000.00",$100.00,1,$0.00,3,3
+9218362,Desirable Seaport district apt,"['email', 'phone', 'reviews']",Boston,02210,$214.00,"$4,494.00",$50.00,1,$0.00,1,32
+8366402,Modern and luxurious 1BR,"['email', 'phone', 'reviews', 'jumio']",Boston,02210,$180.00,"$3,200.00",$70.00,1,$0.00,1,17
+7982359,Lux 2BR Apt Near Seaport w/WiFi,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Boston,02210,$603.00,"$13,920.00",$100.00,1,$0.00,3,3
+11986653,"S'Till, No Disrespect by the Beach.","['email', 'phone', 'reviews', 'kba']",Boston,02127,$45.00,"$1,000.00",$5.00,1,$8.00,1,38
+6911945,"Lovely, clean 1B, hip neighborhood","['email', 'phone', 'reviews', 'jumio', 'kba']",Boston,02127,$170.00,"$4,200.00",$20.00,2,$0.00,2,8
+5026613,Beautiful private room in Southie,"['email', 'phone', 'reviews', 'kba']",Boston,02127,$105.00,"$2,500.00",$35.00,1,$20.00,1,58
+8055839,Updated South Boston Condo,"['email', 'phone', 'facebook', 'reviews', 'jumio', 'kba']",Boston,02127,$200.00,"$3,600.00",$70.00,1,$0.00,2,5
+6544715,CitySide-South Boston,"['email', 'phone', 'reviews', 'jumio']",Boston,02127,$700.00,"$12,000.00",$300.00,1,$0.00,4,10
+646087,1 Bed in Charming Southie Townhouse,"['email', 'phone', 'reviews', 'kba']",Boston,02127,$150.00,"$3,000.00",$100.00,1,$25.00,1,1
+257588,BOSTON LUXURY FOR LESS!!! NEAR BCEC,"['email', 'phone', 'facebook', 'reviews', 'jumio']",Boston,02127,$200.00,"$5,000.00",$100.00,3,$25.00,1,132
+5851489,1 bed in gorgeous S. Boston Condo,"['email', 'phone', 'facebook', 'reviews']",Boston,02127,$169.00,"$3,000.00",$50.00,1,$25.00,1,3
+5384923,Historic Charm with Modern Details,"['email', 'phone', 'reviews', 'jumio']",Boston,02127,$175.00,"$5,250.00",$100.00,1,$0.00,5,23
+3353,Private & Small for Solo Travelers,"['email', 'phone', 'facebook', 'reviews', 'kba']",Allston,02134,$40.00,"$1,200.00",$50.00,1,$0.00,7,34
+7052171,Living room in a 4BR/2BA house,"['email', 'phone', 'reviews', 'jumio']",Boston,02134,$39.00,$819.00,$10.00,1,$0.00,1,1
+3677662,Room in stylish 2-bedroom flat.,"['email', 'phone', 'reviews', 'jumio']",Boston,02134,$85.00,"$1,600.00",$20.00,3,$0.00,6,38
+8112652,Boston University Harvard MIT 2RR,"['email', 'phone', 'reviews', 'kba']",Boston,02134,$32.00,"$1,200.00",$50.00,1,$0.00,1,4
+6976414,Modern luxury Master bedroom,"['email', 'phone', 'reviews']",Allston,02134,$88.00,"$3,300.00",$52.00,1,$0.00,1,2
+4909590,BU/BC Loaded Studio @ Comm/Harv Ave,"['email', 'phone', 'reviews', 'kba']",Boston,02134,$95.00,"$2,600.00",$75.00,3,$10.00,2,103
+13450030,"Allston, Close to Harvard Business School + BU I","['email', 'phone', 'facebook', 'reviews', 'jumio']",Boston,02134,$80.00,"$1,800.00",$35.00,1,$0.00,1,19
+4340110,Bedroom next to Boston University,"['email', 'phone', 'reviews', 'jumio']",Boston,02215,$90.00,"$2,771.00",$25.00,1,$20.00,1,74
+3701108,sunny furnished studio close to T,"['email', 'phone', 'reviews', 'kba']",Boston,02134,$100.00,"$2,000.00",$50.00,2,$0.00,1,9
+6838488,Holman Rental Unit #2 Near Harvard,"['email', 'phone', 'reviews', 'jumio']",Boston,02134,$550.00,"$8,595.00",$200.00,6,$100.00,4,6
+7894645,Cozy room close to BU/Harvard,"['email', 'phone', 'reviews', 'kba']",Boston,02134,$39.00,"$1,134.00",$50.00,1,$0.00,2,6
+13515084,"Allston, Close to Harvard Business School + BU F","['email', 'phone', 'facebook', 'reviews', 'jumio']",Boston,02134,$75.00,"$1,750.00",$35.00,1,$0.00,1,21
+3420221,"d Quiet, Close to T Allston/Bright","['email', 'phone', 'reviews', 'kba']",Boston,02134,$65.00,"$1,300.00",$10.00,1,$20.00,30,36
+8238078,Excellent access Harvard Boston Univercity,"['email', 'phone', 'reviews', 'kba']",Boston,02134,$58.00,"$1,092.00",$50.00,1,$0.00,1,5
+10231171,Allston Close to Harvard Business School + BU C,"['email', 'phone', 'facebook', 'reviews', 'jumio']",Boston,02134,$70.00,"$1,600.00",$35.00,0,$0.00,1,38
+8301150,"Beautiful, Spacious Apt in Allston!","['email', 'phone', 'facebook', 'reviews']",Boston,02134,$175.00,"$3,500.00",$30.00,2,$25.00,2,3
+13019695,"NEW: Allston 2BR, Clean and Cozy","['email', 'phone', 'reviews', 'kba']",Boston,02134,$187.00,"$4,500.00",$40.00,0,$0.00,1,21
+4598026,"Very Central, Safe and Quiet","['email', 'phone', 'manual_online', 'reviews', 'manual_offline']",Boston,02134,$47.00,"$1,000.00",$10.00,1,$0.00,3,19
+7797744,Allston Close to Harvard Business E,"['email', 'phone', 'facebook', 'reviews', 'jumio']",Boston,02134,$45.00,"$1,200.00",$25.00,0,$0.00,1,10
+4294835,b Pleasant & Peaceful near T & Bus,"['email', 'phone', 'reviews', 'kba']",Boston,02134,$60.00,"$1,100.00",$10.00,1,$25.00,1,43
+13236820,Allston: The Blue Room,"['email', 'phone', 'reviews', 'kba']",Boston,02134,$59.00,"$1,700.00",$30.00,1,$10.00,1,4
+13345701,"Allston, Close to Harvard Business School + BU H","['email', 'phone', 'facebook', 'reviews', 'jumio']",Boston,02134,$80.00,"$1,800.00",$35.00,1,$0.00,1,17
+9058863,Private room BU Harvard MIT 2L,"['email', 'phone', 'reviews']",Boston,02134,$50.00,"$1,100.00",$50.00,1,$0.00,1,0
+8758450,Charming 1BD near BU in front of T.,"['email', 'phone', 'reviews', 'jumio']",Boston,02134,$85.00,"$1,100.00",$25.00,1,$25.00,1,2
+13327034,"Allston, Close to Harvard Business School + BU G","['email', 'phone', 'facebook', 'reviews', 'jumio']",Boston,02134,$80.00,"$1,800.00",$35.00,2,$0.00,1,13
+5889190,"Sunny, Safe, Spacious Room Near T!","['email', 'phone', 'facebook', 'reviews', 'jumio']",Allston,02134,$95.00,"$2,500.00",$15.00,2,$30.00,1,80
+6823017,"Allston, Close to Harvard Business School + BU A","['email', 'phone', 'facebook', 'reviews', 'jumio']",Allston,02134,$70.00,"$1,600.00",$35.00,0,$0.00,1,35
+7575576,Bright Studio at Commonwealth ave,"['email', 'phone', 'facebook', 'reviews']",Boston,02134,$150.00,"$2,700.00",$15.00,1,$0.00,1,4
+5085125,Cozy Private AC Bedroom in Boston,"['email', 'phone', 'google', 'linkedin', 'reviews', 'jumio']",Boston,02134,$70.00,"$1,650.00",$20.00,2,$20.00,1,121
+12752442,Cozy Apt @ Prime location. Steps to Bus & Trains!,"['email', 'phone', 'facebook', 'google', 'linkedin', 'amex', 'reviews', 'jumio']",Boston,02134,$127.00,"$2,247.00",$20.00,2,$5.00,1,16
+8034092,Private room priced Sept 1-one year or end of May,"['email', 'phone', 'reviews', 'kba']",Boston,02134,$58.00,"$1,029.00",$50.00,1,$0.00,273,4
+4278873,f STUNNING ROOM w/PRIVATE 1/2 BATH,"['email', 'phone', 'reviews', 'kba']",Boston,02134,$80.00,"$1,600.00",$10.00,1,$25.00,30,38
+4526384,Holman Rental Unit #1 Near Harvard,"['email', 'phone', 'reviews', 'jumio']",Boston,02134,$400.00,"$9,395.00",$200.00,6,$100.00,4,7
+5967421,The Meditation Room near Harvard Square,"['email', 'phone', 'reviews', 'kba']",Boston,02134,$89.00,"$1,650.00",$25.00,1,$20.00,2,46
+3419711,e Sunny & Spacious AllstonBrighton,"['email', 'phone', 'reviews', 'kba']",Boston,02134,$70.00,"$1,500.00",$10.00,1,$25.00,1,47
+5870922,Sunset Room near Harvard Square (BR 2),"['email', 'phone', 'reviews', 'kba']",Boston,02134,$91.00,"$1,750.00",$25.00,1,$20.00,2,46
+8751275,Comfortable Queen Size Bed Room,"['email', 'phone', 'google', 'linkedin', 'reviews', 'jumio']",Boston,02134,$59.00,"$1,800.00",$20.00,2,$0.00,1,64
+1902160,Sunny Room in Boston -1min to T,"['email', 'phone', 'facebook', 'reviews']",Boston,02135,$72.00,"$1,400.00",$10.00,1,$0.00,2,20
+9078482,Cozy artistic Room on Comm Ave,"['email', 'phone', 'facebook', 'reviews', 'jumio']",Boston,02134,$45.00,"$1,150.00",$20.00,1,$5.00,2,2
+4032126,Spacious and Quiet Room,"['email', 'phone', 'facebook', 'reviews', 'kba']",Boston,02134,$40.00,"$1,000.00",$50.00,1,$0.00,7,9
+8704828,Cozy Room in Basement Near Subway,"['email', 'phone', 'google', 'linkedin', 'reviews', 'jumio']",Boston,02134,$69.00,"$1,800.00",$20.00,2,$20.00,1,34
+7462268,"Allston, close to Harvard Business School + BU D","['email', 'phone', 'facebook', 'reviews', 'jumio']",Boston,02134,$75.00,"$1,600.00",$35.00,0,$0.00,1,32
+7602994,Warm Huge Room (*Girl Only),"['email', 'phone', 'reviews', 'jumio']",Boston,02134,$28.00,$900.00,$10.00,1,$10.00,7,5
+4332035,Lux Brookline 1BR w/ gym & WiFi,"['email', 'phone', 'manual_online', 'reviews', 'manual_offline', 'kba']",Brookline,02446,$272.00,"$5,970.00",$100.00,1,$0.00,20,1

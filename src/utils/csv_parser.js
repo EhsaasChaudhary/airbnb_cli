@@ -8,7 +8,7 @@ import { parse } from "fast-csv";
  * @returns {Promise<Array>} A promise that resolves to an array of valid listings.
  */
 
-// uses fast-csv to parse the CSV fil. The parseCSV function returns a promise that resolves to an array of valid listings.
+// uses fast-csv to parse the CSV file. The parseCSV function returns a promise that resolves to an array of valid listings.
 function parseCSV(filePath) {
   return new Promise((resolve, reject) => {
     const results = [];
