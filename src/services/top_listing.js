@@ -7,9 +7,8 @@ import ora from "ora";
  * @param {number} count - Number of listings to return.
  */
 async function getTopPriceListings(count) {
-  
   try {
-  const priceListing = getCachedData(); // Get cached data
+    const priceListing = getCachedData(); // Get cached data
 
     return priceListing
       .map((item) => ({
@@ -34,7 +33,7 @@ async function listTopPricedAirbnb(count = 10) {
 
   try {
     const listings = await getTopPriceListings(count);
-    spinner.succeed("Data loaded successfully!\n");
+    spinner.succeed("Data Listing successful!\n");
 
     if (!listings.length) {
       console.log("No listings found.");

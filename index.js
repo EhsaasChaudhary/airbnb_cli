@@ -4,7 +4,7 @@ import { Command } from "commander";
 import readline from "readline";
 import fs from "fs";
 import path from "path";
-import { preloadData } from "./src/utils/data_cache.js";  // Preload data
+import { preloadData } from "./src/utils/data_cache.js"; // Preload data
 import listTopPricedAirbnb from "./src/services/top_listing.js";
 
 const program = new Command();
@@ -40,7 +40,7 @@ Welcome to the Airbnb CLI!
 Available commands:
   ptoplist <number>  - Show the top N highest-priced Airbnb listings
 
-💡 Tip: Use UP/DOWN arrow keys to navigate commands.
+Tip: Use UP/DOWN arrow keys to navigate commands.
 
 Type a command to continue:
 `);
@@ -50,34 +50,38 @@ Type a command to continue:
  * Prompts the user for a command input and executes the corresponding command.
  * Uses history for navigation but does NOT save new commands.
  */
+let rl; // Global readline instance to prevent duplication
+
 function askForCommand() {
+  if (rl) {
+    rl.close(); // Close previous readline instance before creating a new one
+  }
+
   const history = loadHistory();
 
-  const rl = readline.createInterface({
+  rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout,
-    history: history,  // Load previous history
+    history: history,
     historySize: 50,
     prompt: "> ",
   });
 
-  rl.prompt();
+  rl.prompt(); // Show prompt agai
 
-  rl.on("line", (input) => {
-    const args = input.trim().split(" ");
-    if (args[0]) {
+  rl.on("line", async (input) => {
+    const args = input.trim().split(" ").filter(Boolean); // Remove extra spaces
+
+    if (args.length > 0) {
       try {
-        program.parse(["node", "cli.js", ...args]);
+        await program.parseAsync(args, { from: "user", exitOverride: true });
       } catch (error) {
-        console.error("Invalid command:", input);
+        if (error.code !== "commander.helpDisplayed") {
+          console.error("Invalid command:", input);
+        }
       }
     }
-    rl.prompt();
-  });
-
-  rl.on("close", () => {
-    console.log("Exiting Airbnb CLI. Have a great day!");
-    process.exit(0);
+    rl.prompt(); // Re-show prompt after execution
   });
 }
 
@@ -87,13 +91,18 @@ function askForCommand() {
 program
   .command("ptoplist [count]")
   .description("List top-priced Airbnb listings (default: 10)")
-  .action((count) => {
-    const numListings = parseInt(count, 10);
-    if (isNaN(numListings) || numListings <= 0) {
+  .action(async (count) => {
+    const numListings = parseInt(count, 10) || 10;
+    if (numListings <= 0) {
       console.error("Error: Please enter a valid positive number.");
       return;
     }
-    listTopPricedAirbnb(numListings);
+
+    await listTopPricedAirbnb(numListings);
+
+    console.log("\nCommand executed. Enter another command:");
+    showMenu();
+    askForCommand(); // ✅ Re-prompt user after execution
   });
 
 /**
